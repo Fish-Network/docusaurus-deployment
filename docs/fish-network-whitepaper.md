@@ -1,5 +1,5 @@
 ---
-description: Democratizing Venture Capital Through Community-Driven Investment
+description: Democratizing Private Markets Through Community-Driven Investment
 ---
 
 # Fish Network Whitepaper
