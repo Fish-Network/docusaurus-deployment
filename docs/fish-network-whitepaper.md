@@ -405,7 +405,7 @@ Fish Agents are designed to increase active participation by reducing friction (
 
 In the future, Fish Schools will be able to opt-in(via a governance vote) to deploy their previously locked "Liquidity Premium" to facilitate early liquidity for investors.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (5).png>)
 
 **FUTURE MODEL: — “50/40/10 Split” (escrow + tokenized investment club equity)**
 
@@ -586,9 +586,9 @@ The Nominee Delegate is obligated to:
 
 This structure simplifies administrative execution while preserving investor voting rights and accountability, distinguishing the system from traditional SPVs and CrowdSAFE-based structures that centralize control.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (1).png>)
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (3).png>)
 
 Each Fish School operates as a Series LLC with the following characteristics:
 
