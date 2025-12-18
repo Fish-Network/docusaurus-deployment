@@ -85,7 +85,7 @@ Alternative Investments Market:
 * Global alternative investments: $13.7 trillion AUM (2024)
 * Private equity: $5.8 trillion
 * Venture capital: $1.1 trillion
-* Target: <1% of VC market = $11 billion TAM
+* Target: \<1% of VC market = $11 billion TAM
 
 Crowdfunding Market:
 
