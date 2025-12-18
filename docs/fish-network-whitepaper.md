@@ -51,7 +51,7 @@ Today, Fish Network provides the comprehensive framework for emerging managers t
 7. [Legal & Compliance Framework](#7-legal--compliance-framework)
 8. [Platform Participants](#8-platform-participants)
 9. [Fish Points: Reputation & Rewards](#9-fish-points-reputation--rewards)
-10. [Anti-Money Laundering (AML) & Know Your Customer (KYC) Compliance](#9-anti-money-laundering-aml--know-your-customer-kyc-compliance)
+10. [Anti-Money Laundering (AML) & Know Your Customer (KYC) Compliance](#10-anti-money-laundering-aml-know-your-customer-kyc-compliance)
 11. [Growth Strategy](#11-how-and-why-fish-network-will-win)
 12. [Conclusion](#12-conclusion)
 
@@ -877,6 +877,8 @@ Economic Security:
 * Emergency ability to reset or adjust gaming accounts
 
 ***
+
+### 10. Anti-Money Laundering (AML) & Know Your Customer (KYC) Compliance
 
 #### 10.1 Anti-Money Laundering (AML) & Know Your Customer (KYC)
 
