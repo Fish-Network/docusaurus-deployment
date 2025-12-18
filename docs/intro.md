@@ -168,11 +168,9 @@ There are several ways for awarding and using Fish Points; capital commitments, 
 
 This will ultimately help streamline retail crowdfunding, and activate a new network of emerging managers.
 
-### _**Structure:**_ Investors earn reputation points by committing capital into Fish Schools. Fish Schools get capitalized by investors with the following structure.
+### _**Structure (Today):**_ Investors earn reputation points by committing capital into Fish Schools. The **current live model** uses the "80/20 Micro‑Fund" structure described below (≥80% to investments; ≤20% to admin/ops).
 
-* **50%** converted to USDC, transferred to the Fish Network smart contract to earn points.
-* **40%** allocated to the winning startup(s), voted by the Investors by using earned points.
-* **10%** kept in each Fish School treasury to pay for operating expenses.
+The previously proposed **"50/40/10 Split"** is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.
 
 ### Liquidity Structure Options
 
