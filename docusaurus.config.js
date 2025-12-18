@@ -14,14 +14,15 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://fish-network.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-deployment/',
+  // For GitHub Pages project site: https://<org>.github.io/<projectName>/
+  // this should be '/<projectName>/'.
+  // The hosting repo is Fish-Network/docs, so the baseUrl is '/docs/'.
+  baseUrl: '/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Fish-Network', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-deployment', // Usually your repo name.
+  projectName: 'docs', // GitHub repo name used for Pages deployment.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -42,10 +43,8 @@ const config = {
         docs: {
           routeBasePath: '/', // Serve docs at the site's root
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/fish-network/docs/tree/main/',
+            'https://github.com/Fish-Network/docs/tree/main/',
         },
         blog: false, // Disable the blog plugin
         theme: {
