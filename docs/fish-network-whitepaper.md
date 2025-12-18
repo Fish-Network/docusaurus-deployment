@@ -42,18 +42,18 @@ Today, Fish Network provides the comprehensive framework for emerging managers t
 
 ### Table of Contents
 
-1. [Introduction](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.x4509t33o8xp)
-2. [The Broken State of Crowdfunding](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.hyxl3jpixm94)
-3. [Fish Network Solution](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.vrrw06t4y5ki)
-4. [Technical Architecture](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.9750kxv19edv)
-5. [Economic Model](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.pb1721x9cz9o)
-6. [Market Opportunity & Go-to-Market Strategy](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lc0wn5b10die)
-7. [Legal & Compliance Framework](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.bp7ne8ly424x)
-8. [Platform Participants](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.yb9k04mjt2hl)
-9. [Fish Points: Reputation & Rewards](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.a8or31ipl1e7)
-10.
-11. [Growth Strategy](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lc0wn5b10die)
-12. [Conclusion](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lja8vc6i11k3)
+1. [Introduction](#1-introduction)
+2. [The Broken State of Crowdfunding](#2-the-broken-state-of-crowdfunding)
+3. [Fish Network Solution](#3-fish-network-solution)
+4. [Technical Architecture](#4-technical-architecture)
+5. [Economic Model](#5-future-economic-model)
+6. [Market Opportunity & Go-to-Market Strategy](#6-market-opportunity--go-to-market-strategy)
+7. [Legal & Compliance Framework](#7-legal--compliance-framework)
+8. [Platform Participants](#8-platform-participants)
+9. [Fish Points: Reputation & Rewards](#9-fish-points-reputation--rewards)
+10. [Anti-Money Laundering (AML) & Know Your Customer (KYC) Compliance](#9-anti-money-laundering-aml--know-your-customer-kyc-compliance)
+11. [Growth Strategy](#11-how-and-why-fish-network-will-win)
+12. [Conclusion](#12-conclusion)
 
 ***
 
