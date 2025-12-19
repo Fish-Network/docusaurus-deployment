@@ -8,7 +8,7 @@ The Fish Network is a compliant, semi‑liquid platform that turns thesis‑driv
 
 Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to trust their gut or leverage the wisdom of the crowd.
 
-![Fish School Overview](/img/gitbook/3%20(1).png)
+![Fish School Overview](/.gitbook/assets/3%20(1).png)
 
 **What's different:** Capital is pooled up‑front, Diligence is community‑driven, Liquidity is coordinated across organizations, and admin is a streamlined experience handled via KYC/KYB and qualified custody.
 
