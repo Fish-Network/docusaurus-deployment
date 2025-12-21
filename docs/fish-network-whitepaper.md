@@ -885,7 +885,33 @@ Economic Security:
 
 Fish Network implements comprehensive AML/KYC procedures through a Customer Identification Program (CIP) including ongoing monitoring.
 
-Technology Partners: Compliance infrastructure provided through Coinbase and Kraken reduces Fish Network's operational burden while maintaining regulatory standards.
+**Platform-Level KYC Requirements:**
+
+Fish Network performs direct KYC/AML checks on each Fish School Organizer prior to capital deployment. This ensures that all organizers meet regulatory standards and have undergone proper identity verification.
+
+**Fish School Organizer Responsibilities:**
+
+Fish Network provides tools on platform to enable Fish School Organizers to KYC their members. However, **Fish School Organizers are responsible for enforcing their own individual KYC policies** and ensuring compliance with applicable regulations for their specific Fish School.
+
+**Compliance Automation Features:**
+
+* **Onchain attestations** - Verified credentials stored as soulbound tokens
+* **Privacy-preserving** - Minimal data exposure while maintaining compliance
+* **Automated accredited investor verification**
+* **Real-time transaction monitoring** for suspicious activity
+* **Automated reporting** for SEC Form C filings
+* **Cap table management** and ownership tracking
+* **Tax document generation** (K-1s, 1099s)
+
+**Technology Partners:**
+
+Compliance infrastructure provided through Coinbase and Kraken reduces Fish Network's operational burden while maintaining regulatory standards.
+
+**Third Party Integrations:**
+
+* **cb.id** - Coinbase's on-chain identity system for investors
+* **Kraken verification** - Institutional-grade KYB for Fish School entities
+* **KYC/KYB/AML provider:** [Simplici](https://simplici.io/)
 
 #### 10.2 Custody & Financial Regulations
 
@@ -1110,11 +1136,12 @@ Traditional VC Funds:
 
 * Andreessen Horowitz, Sequoia, Paradigm
 * Not direct competitors but alternative for startups and LPs
-* Fish Network complements by serving different market segments
+* Fish Network complements by serving non-accredited investor market segment
 
 Public Markets:
 
 * Robinhood, Coinbase retail trading
+* Weakness: Limited access to private market opportunities for retail investors
 * Different asset class (public equities/crypto vs. private startups)
 * Potential collaboration opportunities for liquidity solutions
 
