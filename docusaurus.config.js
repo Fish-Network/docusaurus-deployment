@@ -104,7 +104,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/fishnetwork',
+                href: 'https://x.com/FishNetworkco',
               },
             ],
           },
