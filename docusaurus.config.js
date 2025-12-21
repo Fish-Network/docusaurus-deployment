@@ -90,8 +90,32 @@ const config = {
                 to: '/',
               },
               {
+                label: 'Fish Network Overview',
+                to: '/intro',
+              },
+              {
                 label: 'Whitepaper',
                 to: '/fish-network-whitepaper',
+              },
+              {
+                label: 'Fish School Advantage',
+                to: '/the-fish-school-advantage',
+              },
+              {
+                label: 'Liquidity, Optionality, Diversification',
+                to: '/liquidity-optionality-diversification',
+              },
+              {
+                label: 'Fish Points',
+                to: '/fish-points-the-social-layer-of-capital',
+              },
+              {
+                label: 'Smart Contracts & Tokenomics',
+                to: '/smart-contracts-and-tokenomics',
+              },
+              {
+                label: 'System Architecture & Patent',
+                to: '/system-and-method-for-blockchain-based-community-investment-pools',
               },
             ],
           },
