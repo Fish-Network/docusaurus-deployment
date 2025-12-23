@@ -70,10 +70,10 @@ Our Goal: Empower our community to use its collective intelligence to build a di
 
 We seek to provide investors with diversified exposure to early-stage venture capital, mainly because [Seed Stage startups](https://blog.ironkeycapital.com/2025-whitepaper?hs_preview=XaVxBNCJ-189016345179) are the best way to preserve long duration capital during periods of market uncertainty.
 
-“The smartest capital in the next decade won’t just be fast; it will be collective. Iron Key Investment Club exists to give investors an edge, not by chasing trends but by compounding intelligence. We’re not building a club. We are building the infrastructure for a new class of investor. One that earns not just returns, but reputation, network, and leverage.
+>“The smartest capital in the next decade won’t just be fast; it will be collective. Iron Key Investment Club exists to give investors an edge, not by chasing trends but by compounding intelligence. We’re not building a club. We are building the infrastructure for a new >class of investor. One that earns not just returns, but reputation, network, and leverage.
 
 \
-"We’re rewriting how capital is coordinated in the age of AGI and blockchain. Every member becomes a stakeholder, a contributor, and a decision-maker. Because the future of venture isn’t gated - it’s governed by those who build it.”
+>"We’re rewriting how capital is coordinated in the age of AGI and blockchain. Every member becomes a stakeholder, a contributor, and a decision-maker. Because the future of venture isn’t gated - it’s governed by those who build it.”
 
 **Joseph Argiro - Founder and CEO, Iron Key Capital**
 
