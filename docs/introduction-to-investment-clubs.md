@@ -71,15 +71,15 @@ However, in 2025, there are various tailwinds that will support the investment c
 
 ## Fish Network's Investment Club Model
 
-Fish Network brings a new sustainable model to community driven early stage investing, while providing the necessary services required to scale seed stage startups. This is achieved through a dual-entity investment club model. Fish Schools pool capital as a **Capital Pooling Investment Club**, while Fish Shoals coordinate non-investment activities like social events, value-add services, and more through a **Non-Capital Pooling Investment Club**. Reputation is quantified using Fish Points, and transferred across the dual entity structure to incentivize good behavior and penalize non-performance.
+Fish Network brings a new sustainable model to community driven early stage investing, while providing the necessary services required to scale seed stage startups. This is achieved through a dual-entity investment club model. Fish Schools pool capital as a **Capital Pooling Investment Club**, while Fish Shoals coordinate non-investment activities like social events, value-add services, and more through a **Non-Capital Pooling Investment Club**, also known as a Service DAO. Reputation is quantified using Fish Points, and transferred across the dual entity structure to incentivize good behavior and penalize non-performance.
 
-Our investor ecosystem structure fosters a transparent, community-driven model that prioritizes transparency and diversification. The Fish School members vote to invest in high-potential seed stage startups, splitting the upside between organizers and members, and rewarding contributions through mutually agreed upon, at-cost compensation and/or reputation points.
+Our investor ecosystem structure fosters a transparent, community-driven model that prioritizes transparency and diversification. The Fish School members vote to invest in high-potential seed stage startups, splitting the upside between organizers and members, and rewarding contributions through either mutually agreed upon, at-cost compensation or Fish reputation points.
 
 > "Though tempting, trying to time the market is a loser's game. $10,000 continuously invested in the market over the past 20 years grew to $63,636. If you missed just the best 30 days, your investment was reduced to $11,484."
 > 
 > **- Christopher Dixon, General Partner at a16z**
->
-> By enabling Dollar Cost Averaging(DCA) built into our Fish Network platform, we enable retail investors in private markets with access to tools and techniques previously reserved and gated for sophisicated investors only.
+
+By enabling Dollar Cost Averaging(DCA) built into our Fish Network platform, we enable retail investors in private markets with access to tools and techniques previously reserved and gated for sophisicated investors only.
 
 ### Key Features
 
