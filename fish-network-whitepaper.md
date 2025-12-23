@@ -906,9 +906,21 @@ Economic Security:
 
 #### 10.1 Anti-Money Laundering (AML) & Know Your Customer (KYC)
 
-Fish Network implements comprehensive AML/KYC procedures through a Customer Identification Program (CIP) including ongoing monitoring.
+Fish Network implements comprehensive AML/KYC procedures through a Customer Identification Program (CIP) including ongoing monitoring for all Fish School Organizers.
 
-Technology Partners: Compliance infrastructure provided through Coinbase and Kraken reduces Fish Network's operational burden while maintaining regulatory standards.
+Fish Network provides tools on platform to enable Fish School Organizers to KYC their members. However, **Fish School Organizers are responsible for enforcing their own individual KYC policies** and ensuring compliance with applicable regulations for their specific Fish School.
+
+**Compliance Automation Features:**
+
+* **Onchain attestations** - Verified credentials stored as soulbound tokens
+* **Privacy-preserving** - Minimal data exposure while maintaining compliance
+* **Automated accredited investor verification**
+* **Real-time transaction monitoring** for suspicious activity
+* **Automated reporting** for SEC Form C filings
+* **Cap table management** and ownership tracking
+* **Tax document generation** (K-1s, 1099s)
+
+Technology Partners: Compliance infrastructure provided through cb.id and other institutional services which reduces Fish Network's operational burden while maintaining regulatory standards.
 
 #### 10.2 Custody & Financial Regulations
 
@@ -1133,7 +1145,7 @@ Traditional VC Funds:
 
 * Andreessen Horowitz, Sequoia, Paradigm
 * Not direct competitors but alternative for startups and LPs
-* Fish Network complements by serving different market segments
+* Fish Network complements by serving non-accredited investor market segment
 
 Public Markets:
 
