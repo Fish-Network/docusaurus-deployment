@@ -79,8 +79,6 @@ We seek to provide investors with diversified exposure to early-stage venture ca
 
 ### Why Join Iron Key Capital?
 
-\
-
 Iron Key is preparing to launch its native token, backed by the profit interests of its Investment Club, Iron Key Capital Ventures Series 1 LLC, a member-managed Wyoming LLC.
 
 #### Our Investment Thesis
@@ -138,7 +136,7 @@ _Investing involves risks, including the potential loss of principal. Past perfo
 
 _Any opinions, projections, or forward-looking statements expressed in this thesis reflect the views of the author(s) as of the date of publication and are subject to change without notice._
 
-### &#x20;Glossary and FAQ12
+### &#x20;Glossary and FAQ
 
 \
 **1. Why do people join investment clubs?**
