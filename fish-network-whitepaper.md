@@ -51,9 +51,8 @@ Today, Fish Network provides the comprehensive framework for emerging managers t
 7. [Legal & Compliance Framework](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.bp7ne8ly424x)
 8. [Platform Participants](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.yb9k04mjt2hl)
 9. [Fish Points: Reputation & Rewards](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.a8or31ipl1e7)
-10.
-11. [Growth Strategy](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lc0wn5b10die)
-12. [Conclusion](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lja8vc6i11k3)
+10. [Growth Strategy](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lc0wn5b10die)
+11. [Conclusion](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lja8vc6i11k3)
 
 ***
 
@@ -193,6 +192,7 @@ Distribution + Portfolio Support Phase:
 * Fish Points rewards for successful picks, building member reputation
 
 **Future Use Case:** Rolling "funds" as investment clubs
+**Future Enhancement:** Quadratic voting
 
 #### 3.3 Fish School Fee Structure
 
@@ -570,6 +570,12 @@ Fish Network brings targeted advantages for angel investors and emerging manager
 
 #### 7.1 Entity Structure ![](<.gitbook/assets/image (4).png>)
 
+Customers will form a Master Series LLC on platform owned by their existing entity. If the customer is an individual, they will be prompted to form a holding company(optional), which can be leveraged as a "GP Stakes" management entity, or a minimum viable venture studio.
+
+<img width="575" height="474" alt="image" src="https://github.com/user-attachments/assets/ecffb8ae-e1cb-4208-bbbb-ad44b1c549cb" />
+
+Fish Network provides flexibility in structuring to accomodate a broad set of use cases for compliant on-chain capital formation. Fish Schools are currently Member-Managed LLCs with a Nominee Delegate(defined below).
+
 Upon approval of an investment proposal, the platform executes the investment using a **nominee-based structure** that mimics a traditional CrowdSAFE instrument, but instead gives investors voting rights, amongst other protections, upon a trigger event that warrants a conversion into traditional equity.
 
 * **Nominee:** A Fish School LLC(typically the Master, but can be the individual Series) that holds legal title to the investment on behalf of all Fish Schools and their respective members.
@@ -604,6 +610,16 @@ Each Fish School has the following set of Organizational Documents:
 **2) Required:** Membership Admission Agreement for new member onboarding
 
 **3) Recommended:** Investment Policy Statement outlining thesis and criteria for investments
+
+In the future, we will also offer Nominee-Managed Fish Schools, which are designed specifically for the needs of Emerging Managers.
+
+The Nominee's Role is to execute investments pursuant to pre-approved mandate. The Nominee acts as fiduciary executor, but has no authority outside the agreed upon mandate.
+
+This structure has the following three benefits when compared to a member-managed LLC.
+
+1) Cleaner external representation
+2) Faster Execution
+3) Simplifies reporting
 
 #### 7.2 Securities Regulation Compliance
 
@@ -716,12 +732,18 @@ Requirements:
 
 #### 8.3 Shoal Leaders (Multi-School Managers)
 
+Fish Network plans to retain additional verticals(such as Real Estate, Art, and others) in-house by initially structuring them as the first Fish Shoals on the platform. Additional Shoals will be offered to B2B partners and early customers launching Fish Schools.
+
+<img width="432" height="394" alt="image" src="https://github.com/user-attachments/assets/fdf63607-c431-4d9a-8cd7-9b7876f6a77f" />
+
+
 Who They Are:
 
 * VCs or investment firms running multiple Fish Schools
 * Ecosystem builders (e.g., Base ecosystem fund)
 * Corporate venture arms experimenting with community models
 * Accelerators integrating Fish Schools for their cohorts
+* Registered Broker-Dealers providing on-chain capital formation services to clients
 
 What They Do:
 
@@ -731,13 +753,19 @@ What They Do:
 * Aggregate capital and relationships for ecosystem impact
 * Run funnel-wide programs benefiting all schools
 
-Value Proposition:
+Capital Value Proposition:
 
 * Activate community capital beyond traditional fund structure
-* Test emerging managers at low cost and risk
-* Build ecosystem presence and deal flow
-* Engage smaller LPs (<$25K checks) efficiently
 * Create feeder system for larger funds
+* Test emerging managers at low cost and reduced risk
+
+Growth + Services Value Proposition:
+
+* Monetize via SaaS or NFTs
+* Build ecosystem presence and deal flow
+* Membership limit increase: More than 99 members allowed
+* Foster a services ecosystem to provide value-add to startups beyond capital
+* Empower individual consultants to scale
 
 #### 8.4 Startups (Capital Seekers)
 
