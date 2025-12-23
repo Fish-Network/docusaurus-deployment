@@ -1,5 +1,5 @@
 ---
-description: Democratizing Venture Capital Through Community-Driven Investment
+description: Democratizing Private Markets Through Community-Driven Investment, Starting with Venture Capital
 ---
 
 # Fish Network Whitepaper
@@ -344,7 +344,7 @@ Smart Contract Security:
 
 #### 4.4 Identity & Compliance Infrastructure
 
-Fish Network performs direct KYC/AML checks on each Fish School Organizer prior to capital deployment. Fish Network also provides tools on platform to enable Fish School Organizers to KYC its members. However, Fish School Organizers are responsible for enforcing their own individual KYC policies.
+Fish Network leverages market leading identity and compliance on-chain solutions to perform direct KYC/AML checks on each Fish School Organizer prior to capital deployment. Fish Network also provides tools on platform to enable Fish School Organizers to KYC its members. 
 
 **Compliance automation features included:**
 
@@ -906,19 +906,9 @@ Economic Security:
 
 #### 10.1 Anti-Money Laundering (AML) & Know Your Customer (KYC)
 
-Fish Network implements comprehensive AML/KYC procedures through a Customer Identification Program (CIP) including ongoing monitoring for all Fish School Organizers.
+Fish Network performs direct KYC/AML checks on each Fish School Organizer prior to capital deployment. Fish Network has implemented comprehensive AML/KYC procedures through a Customer Identification Program (CIP) including ongoing monitoring for all Fish School Organizers.
 
 Fish Network provides tools on platform to enable Fish School Organizers to KYC their members. However, **Fish School Organizers are responsible for enforcing their own individual KYC policies** and ensuring compliance with applicable regulations for their specific Fish School.
-
-**Compliance Automation Features:**
-
-* **Onchain attestations** - Verified credentials stored as soulbound tokens
-* **Privacy-preserving** - Minimal data exposure while maintaining compliance
-* **Automated accredited investor verification**
-* **Real-time transaction monitoring** for suspicious activity
-* **Automated reporting** for SEC Form C filings
-* **Cap table management** and ownership tracking
-* **Tax document generation** (K-1s, 1099s)
 
 Technology Partners: Compliance infrastructure provided through cb.id and other institutional services which reduces Fish Network's operational burden while maintaining regulatory standards.
 
@@ -1123,19 +1113,19 @@ Direct Competitors:
 
 Traditional Crowdfunding Platforms:
 
-* StartEngine, Republic, Wefunder, SeedInvest
+* Examples: StartEngine, Republic, Wefunder, SeedInvest
 * Weakness: High fees, poor UX, adverse selection
 * Fish Network advantage: Pre-funded pools, community governance, no listing fees
 
 Syndicate Platforms:
 
-* AngelList, Assure, Alumni Ventures
+* Examples: AngelList, Assure, Alumni Ventures
 * Weakness: Deal-by-deal friction, lead-dependent model
 * Fish Network advantage: Standing capital, distributed decision-making
 
 DAO Investment Platforms:
 
-* Syndicate Protocol, Metropolis, Koop
+* Examples: Syndicate Protocol, Spring.net
 * Weakness: Regulatory uncertainty, limited compliance infrastructure
 * Fish Network advantage: Compliant entity structure, qualified custody
 
@@ -1143,15 +1133,15 @@ Indirect Competitors:
 
 Traditional VC Funds:
 
-* Andreessen Horowitz, Sequoia, Paradigm
-* Not direct competitors but alternative for startups and LPs
-* Fish Network complements by serving non-accredited investor market segment
+* Examples: Andreessen Horowitz, Sequoia, Paradigm
+* Weakness: Limited to US Accredited Investors; traditional LP structures give investors little control or rights.
+* Fish Network advantage: complements by enabling emerging managers to serve non-accredited investor market segment
 
 Public Markets:
 
-* Robinhood, Coinbase retail trading
-* Different asset class (public equities/crypto vs. private startups)
-* Potential collaboration opportunities for liquidity solutions
+* Examples: Robinhood, Coinbase retail trading
+* Weakness: Different asset class (public equities/crypto vs. private startups)
+* Fish Network advantage: Leverage hybrid vehicles that mix private and public markets for diversification opportunities; ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
 
 ***
 
