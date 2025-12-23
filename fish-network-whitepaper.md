@@ -629,7 +629,8 @@ Each Fish School has the following set of Organizational Documents:
 
 **3) Recommended:** Investment Policy Statement outlining thesis and criteria for investments
 
-**Future Enhancement** we will also offer Nominee-Managed Fish Schools, which are designed specifically for the needs of Emerging Managers.
+
+**Future Enhancement:** Fish Network will also offer Nominee-Managed Fish Schools, which are designed specifically for the needs of Emerging Managers.
 
 The Nominee's Role is to execute investments pursuant to pre-approved mandate. The Nominee acts as fiduciary executor, but has no authority outside the agreed upon mandate.
 
