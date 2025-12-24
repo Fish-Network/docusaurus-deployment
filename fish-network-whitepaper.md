@@ -430,7 +430,7 @@ Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market 
 
 **FUTURE MODEL: — “50/40/10 Split” (escrow + tokenized investment club equity)**
 
-* 50% → Smart contract escrow earning stablecoin yield; comprehensive liquidity for all fish schools
+* 50% → FishLP Contract: Smart contract escrow earning stablecoin yield; comprehensive liquidity for all fish schools
 * 40% → Distributed to winning startup(s) based on community vote
   * earning Fish Points during 21-day evaluation window
 * 10% → Fish School treasury for operations, legal, and administration
