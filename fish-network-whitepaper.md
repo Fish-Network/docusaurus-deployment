@@ -421,7 +421,7 @@ Fish Agents are designed to increase active participation by reducing friction (
 
 ### 5. Future Economic System of Engineered Liquidity
 
-< this model will be available to non-US Citizens only
+*this model will be available to non-US Citizens only
 
 #### 5.1 Liquidity in Private Markets
 
