@@ -42,17 +42,17 @@ Today, Fish Network provides the comprehensive framework for emerging managers t
 
 ### Table of Contents
 
-1. [Introduction](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.x4509t33o8xp)
-2. [The Broken State of Crowdfunding](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.hyxl3jpixm94)
-3. [Fish Network Solution](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.vrrw06t4y5ki)
-4. [Technical Architecture](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.9750kxv19edv)
-5. [Economic Model](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.pb1721x9cz9o)
-6. [Market Opportunity & Go-to-Market Strategy](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lc0wn5b10die)
-7. [Legal & Compliance Framework](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.bp7ne8ly424x)
-8. [Platform Participants](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.yb9k04mjt2hl)
-9. [Fish Points: Reputation & Rewards](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.a8or31ipl1e7)
-10. [Growth Strategy](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lc0wn5b10die)
-11. [Conclusion](https://docs.google.com/document/d/1v9yoP1U8epC75DczA7IjTZWplGAE41Pn7sbglS4W8Xg/edit?tab=t.0#heading=h.lja8vc6i11k3)
+1. [Introduction](#1-introduction)
+2. [The Broken State of Crowdfunding](#2-the-broken-state-of-crowdfunding)
+3. [Fish Network Solution](#3-fish-network-solution)
+4. [Technical Architecture](#4-technical-architecture)
+5. [Economic Model](#5-economic-model)
+6. [Legal & Compliance Framework](#6-legal--compliance-framework)
+7. [Platform Participants](#7-platform-participants)
+8. [Fish Points: Reputation & Rewards](#8-fish-points-reputation--rewards)
+9. [Anti-Money Laundering (AML) & Know Your Customer (KYC) Compliance Framework](#aml-kyc)
+10. [How and Why Fish Network will win](#10-how-and-why-fish-network-will-win)
+11. [Conclusion](#11-conclusion)
 
 ***
 
@@ -78,6 +78,8 @@ Despite technological progress, the infrastructure for matching capital with inn
 Fish Network bridges this gap by creating scalable, transparent, and community-driven investment infrastructure built for the modern era.
 
 #### 1.3 Total Addressable Market
+
+By 2030, the majority of illiquid assets will be tokenized and traded on-chain. A major trend is the "democratization" of private markets, which makes them more accessible to individual investors through new structures like evergreen and semi-liquid funds.
 
 Alternative Investments Market:
 
@@ -165,20 +167,20 @@ A Fish School is a community-driven investment club structured as a Series LLC, 
 * **≥80%** deployed to investments
 * **≤20%** for admin/ops and early execution costs (front-loaded)
 
-Formation Phase:
+**Formation Phase:**
 
 * Vetted Fish School Organizer creates a new school with specific investment thesis (e.g., "DeFi Infrastructure on Base" or "AI-Powered Consumer Apps")
 * Organizer establishes Series LLC entity with proper legal documentation
 * Investment parameters are set: minimum/maximum school size, investment criteria, governance rules
 
-Funding Phase:
+**Funding Phase:**
 
 * Fish School Organizers undergo KYC/KYB through Coinbase or Kraken infrastructure
 * Capital contributions are made in USDC
 * Funds flow to qualified custody (Coinbase Prime/Kraken) for security
 * Smart contracts on Base L2 manage escrow and routing
 
-Investment Phase:
+**Investment Phase:**
 
 * Organizer sources and vets startup opportunities
 * Qualified startups pitch to Fish School community
@@ -186,7 +188,7 @@ Investment Phase:
 * Community votes onchain using earned Fish Points for governance weight
 * Winning startups receive immediate capital deployment
 
-Distribution + Portfolio Support Phase:
+**Distribution + Portfolio Support Phase:**
 
 * Portfolio companies achieve liquidity events (acquisition, IPO, secondary sales)
 * Proceeds flow back through smart contracts
@@ -199,26 +201,26 @@ Distribution + Portfolio Support Phase:
 
 #### 3.3 Fish School Fee Structure
 
-No Pay-to-List:\
+**No Pay-to-List:**
 Unlike traditional crowdfunding platforms, Fish Network does not charge startups upfront listing fees. This ensures high-quality deal flow and removes adverse selection.
 
-Platform Economics:
+**Platform Economics:**
 
-For Fish Schools (Organizers):
+**For Fish Schools (Organizers):**
 
 * 0% formation fee to create a new Fish School
 * Fish Reputation Points are accrued
 * Fish must vote and collectively agree on any at-cost compensation for Organizers
 * Adminstrative SaaS fees are paid monthly to Fish Network by the Fish School
 
-For Fish Network (Platform):
+**For Fish Network (Platform):**
 
 * 1% platform fee on capital deployed to startups
 * 0.5% secondary market fee on liquidity transactions (future)
 * 1-3% withdrawal fee(future) based on lockup period
 * Premium features for enterprise Fish Schools (analytics, white-label, API access)
 
-For Investors:
+**For Investors:**
 
 * No subscription fees to join Fish Schools
 * No performance fees paid to Fish Network or Organizers(instead, Organizers participate directly in the upside alongside investors in each Fish School)
@@ -299,7 +301,7 @@ Fish Network is built on Coinbase's Base Layer 2, an Ethereum-compatible blockch
 
 #### 4.2 Smart Contract Architecture
 
-Core Contracts:
+**Core Contracts:**
 
 FishSchool.sol - Master contract for each investment club
 
@@ -354,7 +356,7 @@ Qualified Custody: All investor funds are held in qualified custody through Slas
 * Segregated accounts per Fish School
 * Audit trails for all movements
 
-Smart Contract Security:
+**Smart Contract Security:**
 
 * Contracts follow OpenZeppelin standards
 * Multi-signature controls on critical functions
@@ -404,15 +406,15 @@ Fish Network provides an agentic AI system (“Fish Agents”) that supports inv
 * **Organizer Social Agent:** Generates compliant communications for Fish School Organizers (FSOs) to distribute thesis updates, calls-to-action (e.g., “vote by Friday”), and post-investment reporting to their existing community channels.
 * **Startup Update Agent:** Helps portfolio startups draft structured investor updates (monthly metrics, milestones, risks, asks) and routes questions back to founders in an organized queue.
 
-**Consent, Identity, and Auditability**\
+**Consent, Identity, and Auditability**
 All agentic interactions that result in governance or capital-routing actions require:
 
-1. verified identity (KYC/KYB),
-2. an explicit user confirmation step (voice or text), and
-3. a cryptographic signature by the user’s wallet.\
+1. Verified identity (KYC/KYB),
+2. An explicit user confirmation step (voice or text), and
+3. A cryptographic signature by the user’s wallet.
    The system may store a hash of the consent transcript and link it to the corresponding on-chain transaction for auditability.
 
-**Compliance-First Design**\
+**Compliance-First Design**
 Fish Agents are designed to increase active participation by reducing friction (reading time, coordination cost, execution complexity). They do not remove responsibility from individual members and do not autonomously manage pooled assets.
 
 ***
@@ -438,21 +440,21 @@ In the future, Fish Schools will be able to opt-in(via a governance vote) to dep
 
 #### 5.2 Capital Flow
 
-Investor Contribution → Fish School:
+**Investor Contribution → Fish School:**
 
 * Investor commits USDC to join Fish School
 * Funds flow to qualified custody (Coinbase/Kraken)
 * Smart contract records ownership and mints Fish Points
 * Capital enters 21-day evaluation/escrow period
 
-Fish School → Startup Investment:
+**Fish School → Startup Investment:**
 
 * Community votes to allocate capital to winning startup(s)
 * 40% of school capital deployed automatically via smart contract
 * Startup receives investment in USDC
 * Fish School receives equity stake (tokenized or traditional cap table entry)
 
-Startup → Liquidity Event → Distribution:
+**Startup → Liquidity Event → Distribution:**
 
 * Portfolio company achieves exit (acquisition, IPO, secondary sale)
 * Proceeds converted to USDC and returned to Fish School smart contract
@@ -586,9 +588,9 @@ Fish Network brings targeted advantages for angel investors and emerging manager
 
 ***
 
-### 7. Legal & Compliance Framework
+### 6. Legal & Compliance Framework
 
-#### 7.1 Entity Structure
+#### 6.1 Entity Structure
 
 Customers will form a Master Series LLC on platform owned by their existing entity. If the customer is an individual, they will be prompted to form a holding company(optional), which can be leveraged as a "GP Stakes" management entity, or a minimum viable venture studio.
 
@@ -644,9 +646,9 @@ This structure has the following three benefits when compared to a member-manage
 2) Faster execution
 3) Simplifies reporting
 
-#### 7.2 Securities Regulation Compliance
+#### 6.2 Securities Regulation Compliance
 
-**7.2.1:** **Investment Clubs**
+**6.2.1:** **Investment Clubs**
 
 &#x20;Clubs are generally unregulated by the SEC as long as they maintain the below characteristics throughout the lifecycle of operation.
 
@@ -663,7 +665,7 @@ This structure has the following three benefits when compared to a member-manage
 
 Investment Limits (Non-Accredited): Varies State by State in the USA.
 
-**7.2.2: Regulation Crowdfunding (Reg CF):**
+**6.2.2: Regulation Crowdfunding (Reg CF):**
 
 Fish Schools raise capital under SEC Regulation Crowdfunding, enabling:
 
@@ -676,24 +678,24 @@ Fish Schools raise capital under SEC Regulation Crowdfunding, enabling:
   * If annual income or net worth < $124,000: Greater of $2,500 or 5% of lesser amount
   * If annual income and net worth ≥ $124,000: 10% of lesser amount, up to $124,000
 
-**7.2.3 :** **Regulation D:** Accredited Investor verification for SPVs only.
+**6.2.3 :** **Regulation D:** Accredited Investor verification for SPVs only.
 
 * **Fish Network:** On-chain verification through [Metalex](https://metalex-docs.vercel.app/cyberdeals/lexchex) infrastructure
 
 ***
 
-### 8. Platform Participants
+### 7. Platform Participants
 
-#### 8.1 Fish (Investors)
+#### 7.1 Fish (Investors)
 
-Who They Are:
+**Who They Are:**
 
 * Individuals seeking exposure to early-stage venture investments
 * Accredited and non-accredited investors (subject to Reg CF limits)
 * Crypto-native users comfortable with onchain transactions
 * Traditional investors seeking alternative assets
 
-What They Do:
+**What They Do:**
 
 * Browse and join Fish Schools aligned with their investment interests
 * Contribute USDC capital to selected Fish Schools
@@ -707,7 +709,7 @@ What They Do:
   * cast consent-based votes with reduced on-chain friction, and
   * stay engaged via automated reminders and governance briefings.
 
-Value Proposition:
+**Value Proposition:**
 
 * Access to curated deal flow previously available only to VCs
 * Diversification across multiple startups and sectors
@@ -716,9 +718,9 @@ Value Proposition:
 * Transparent onchain record of all transactions and votes
 * Build reputation (Fish Points) for investment acumen
 
-#### 8.2 Fish School Organizers
+#### 7.2 Fish School Organizers
 
-Who They Are:
+**Who They Are:**
 
 * Emerging fund managers looking to build track records
 * Domain experts in specific sectors (DeFi, AI, consumer, etc.)
@@ -726,7 +728,7 @@ Who They Are:
 * Community leaders with engaged followings
 * Experienced angels looking to scale their impact
 
-What They Do:
+**What They Do:**
 
 * Create and manage thesis-driven Fish Schools
 * Source and vet startup opportunities in their domain and present them to Fish for voting
@@ -737,7 +739,7 @@ What They Do:
 * Use Organizer Social Agents to draft and schedule compliant communications to existing communities (thesis updates, meeting recaps, vote reminders).
 * Use Diligence Q\&A Agents to consolidate due diligence, reduce repetitive Q\&A, and maintain a consistent record of investor questions and founder responses.
 
-Value Proposition:
+**Value Proposition:**
 
 * Build professional track record for future endeavors
 * Access capital without traditional LP fundraising burden
@@ -746,21 +748,21 @@ Value Proposition:
 * Earn reputation points and administrative fees when agreed upon
 * Scale influence beyond personal capital constraints
 
-Requirements:
+**Requirements:**
 
 * Pass platform vetting process demonstrating expertise
 * Commit to ongoing education and best practices
 * Maintain transparency and communication standards
 * Comply with all platform policies and regulations
 
-#### 8.3 Shoal Leaders (Multi-School Managers)
+#### 7.3 Shoal Leaders (Multi-School Managers)
 
 Fish Network plans to retain additional verticals(such as Real Estate, Art, and others) in-house by initially structuring them as the first Fish Shoals on the platform. Additional Shoals will be offered to B2B partners and early customers launching Fish Schools.
 
 <img width="432" height="394" alt="image" src="https://github.com/user-attachments/assets/fdf63607-c431-4d9a-8cd7-9b7876f6a77f" />
 
 
-Who They Are:
+**Who They Are:**
 
 * VCs or investment firms running multiple Fish Schools
 * Ecosystem builders (e.g., Base ecosystem fund)
@@ -768,7 +770,7 @@ Who They Are:
 * Accelerators integrating Fish Schools for their cohorts
 * Registered Broker-Dealers providing on-chain capital formation services to clients
 
-What They Do:
+**What They Do:**
 
 * Recruit and coach Fish School Organizers
 * Provide shared services: deal flow, legal, operations, marketing
@@ -776,13 +778,13 @@ What They Do:
 * Aggregate capital and relationships for ecosystem impact
 * Run funnel-wide programs benefiting all schools
 
-Capital Value Proposition:
+**Capital Value Proposition:**
 
 * Activate community capital beyond traditional fund structure
 * Create feeder system for larger funds
 * Test emerging managers at low cost and reduced risk
 
-Growth + Services Value Proposition:
+**Growth + Services Value Proposition:**
 
 * Monetize via SaaS or NFTs
 * Build ecosystem presence and deal flow
@@ -790,16 +792,16 @@ Growth + Services Value Proposition:
 * Foster a services ecosystem to provide value-add to startups beyond capital
 * Empower individual consultants to scale
 
-#### 8.4 Startups (Capital Seekers)
+#### 7.4 Startups (Capital Seekers)
 
-Who They Are:
+**Who They Are:**
 
 * Early-stage companies (pre-seed, seed, Series A)
 * Primarily Base ecosystem builders initially
 * Companies seeking mission-aligned capital and community
 * Founders who value transparency and fairness
 
-What They Do:
+**What They Do:**
 
 * Apply to pitch relevant Fish Schools
 * Present investment opportunity to community
@@ -808,7 +810,7 @@ What They Do:
 * Provide ongoing updates to Fish School members
 * Facilitate liquidity events and distributions
 
-Value Proposition:
+**Value Proposition:**
 
 * No upfront listing or platform fees
 * Access to pre-funded capital pools (faster closing)
@@ -819,9 +821,9 @@ Value Proposition:
 
 ***
 
-### 9. Fish Points: Reputation & Rewards
+### 8. Fish Points: Reputation & Rewards
 
-#### 9.1 Design Principles
+#### 8.1 Design Principles
 
 Fish Points serve as a reputation and governance token designed to:
 
@@ -831,7 +833,7 @@ Fish Points serve as a reputation and governance token designed to:
 4. Align incentives - Encourage quality over quantity in decision-making
 5. Enable meritocracy - Let performance speak louder than capital size
 
-Key Characteristics:
+**Key Characteristics:**
 
 * Non-transferable (Soulbound): Cannot be bought, sold, or transferred
 * Earned, not purchased: Acquired only through platform participation
@@ -839,60 +841,60 @@ Key Characteristics:
 * Cross-school portable: Reputation follows user across Fish Schools
 * Decaying over time: Encourages ongoing participation vs. resting on laurels
 
-#### 9.2 How Fish Points Are Earned
+#### 8.2 How Fish Points Are Earned
 
-Capital Contribution:
+**Capital Contribution:**
 
 * Base accrual rate: 1 Fish Point per $1 contributed to Fish School escrow
 * Accrued during 21-day escrow period before capital deploys
 * Lockup bonus: Additional points for longer commitment periods
 * Early supporter bonus: Extra points for joining new Fish Schools
 
-Voting Participation:
+**Voting Participation:**
 
 * 10 Fish Points per vote cast on investment decisions
 * Bonus for detailed feedback and due diligence contributions
 * Streak bonuses for consistent voting participation
 * Quality bonus if vote aligns with majority (reduces gaming)
 
-Successful Picks:
+**Successful Picks:**
 
 * 100 Fish Points when portfolio company achieves positive exit (>2x return)
 * 250 Fish Points for exceptional exits (>5x return)
 * Proportional to ownership and investment performance
 * Distributed at liquidity event, not mark-to-market
 
-Community Contributions:
+**Community Contributions:**
 
 * Sourcing winning deals: 200 Fish Points per successful referral
 * Quality due diligence: Up to 50 Fish Points for detailed analysis
 * Mentoring startups: Points for value-add beyond capital
 * Platform improvements: Rewards for bug reports, feature suggestions
 
-#### 9.3 Fish Points Utility
+#### 8.3 Fish Points Utility
 
-Governance Weight:
+**Governance Weight:**
 
 * Voting power in Fish School decisions weighted by Fish Points
 * Prevents whale dominance (capital alone doesn't rule)
 * Gives proven performers more influence
 * Encourages long-term engagement
 
-Access & Privileges:
+**Access & Privileges:**
 
 * Tier 1 (0-1,000 points): Access to basic Fish Schools
 * Tier 2 (1,000-10,000 points): Access to premium schools and early deal flow
 * Tier 3 (10,000+ points): Eligibility to become Fish School Organizer
 * Tier 4 (50,000+ points): Shoal Leader opportunities and platform governance
 
-Reputation & Signaling:
+**Reputation & Signaling:**
 
 * Public leaderboards showing top performers
 * Onchain credential proving investment track record
 * Portable reputation across DeFi and Web3
 * Proof of sophistication for future opportunities
 
-Future Utility (Roadmap):
+**Future Utility (Roadmap):**
 
 * Discounts on platform fees for high Fish Points holders
 * Priority access to oversubscribed Fish Schools
@@ -901,24 +903,24 @@ Future Utility (Roadmap):
 * AI-Assisted Participation: \
   Fish Points may be awarded for AI-assisted governance actions that still require individual consent. This reinforces active participation while reducing the friction of traditional governance workflows.
 
-#### 9.4 Anti-Gaming Mechanisms
+#### 8.4 Anti-Gaming Mechanisms
 
 Instead of using typical crypto staking mechanisms which invite manipulation, we avoid these problems by forcing all participants to vote; the majority must agree on the use of capital. Each member receives a governance stake proportional to the capital they invest in the fish school.
 
-Sybil Resistance:
+**Sybil Resistance:**
 
 * KYC/KYB requirements prevent multiple identities
 * Non-transferable design prevents Fish Points markets
 * Capital contribution minimums prevent spam accounts
 
-Quality Filters:
+**Quality Filters:**
 
 * Time delays between actions prevent rapid farming
 * Decay mechanisms reduce inactive user balances
 * Vote alignment bonuses reward thoughtful decisions
 * Penalty for pattern of poor performance (consistent losses)
 
-Economic Security:
+**Economic Security:**
 
 * Fish Points have no monetary value and cannot be sold
 * Governance decisions still require capital at risk
@@ -927,7 +929,9 @@ Economic Security:
 
 ***
 
-#### 10.1 Anti-Money Laundering (AML) & Know Your Customer (KYC)
+### 9. Anti-Money Laundering (AML) & Know Your Customer (KYC) Compliance Framework
+
+#### 9.1 Anti-Money Laundering (AML) & Know Your Customer (KYC)
 
 Fish Network performs direct KYC/AML checks on each Fish School Organizer prior to capital deployment. Fish Network has implemented comprehensive AML/KYC procedures through a Customer Identification Program (CIP) including ongoing monitoring for all Fish School Organizers.
 
@@ -935,9 +939,9 @@ Fish Network provides tools on platform to enable Fish School Organizers to KYC 
 
 Technology Partners: Compliance infrastructure provided through cb.id and other institutional services which reduces Fish Network's operational burden while maintaining regulatory standards.
 
-#### 10.2 Custody & Financial Regulations
+#### 9.2 Custody & Financial Regulations
 
-Qualified Custody Rule:
+**Qualified Custody Rule:**
 
 To comply with SEC custody requirements for investment advisors:
 
@@ -946,7 +950,7 @@ To comply with SEC custody requirements for investment advisors:
 * Direct delivery of account statements to investors
 * Surprise examinations by independent auditors
 
-Smart Contract Limitations:
+**Smart Contract Limitations:**
 
 While smart contracts automate certain functions, they do not constitute custody. Actual digital assets remain with regulated custodians, and smart contracts serve as:
 
@@ -954,9 +958,9 @@ While smart contracts automate certain functions, they do not constitute custody
 * Governance and voting infrastructure
 * Record-keeping and transparency layer
 
-#### 10.3 Tax Considerations
+#### 9.3 Tax Considerations
 
-Pass-Through Structure:
+**Pass-Through Structure:**
 
 Fish Schools are structured as pass-through entities:
 
@@ -965,7 +969,7 @@ Fish Schools are structured as pass-through entities:
 * Capital gains, losses, and income flow through to member tax returns
 * Each member's tax treatment depends on individual circumstances
 
-Fish Points Tax Treatment:
+**Fish Points Tax Treatment:**
 
 Fish Points are designed as non-transferable reputation tokens:
 
@@ -974,7 +978,7 @@ Fish Points are designed as non-transferable reputation tokens:
 * May have tax implications if future liquidity is introduced
 * Members should consult tax advisors for specific situations
 
-Reporting:
+**Reporting:**
 
 Platform provides:
 
@@ -983,7 +987,7 @@ Platform provides:
 * Transaction history for tax preparation
 * Integration with crypto tax software (CoinTracker, TaxBit)
 
-#### 10.4 Risk Disclosures
+#### 9.4 Risk Disclosures
 
 All Fish School investors receive comprehensive risk disclosures:
 
@@ -997,17 +1001,17 @@ All Fish School investors receive comprehensive risk disclosures:
 
 ***
 
-### 11. How and Why Fish Network will win
+### 10. How and Why Fish Network will win
 
 Fish Network navigates a fragmented competitive landscape by addressing the core weaknesses of traditional crowdfunding, syndicate platforms, and DAO tools through its unique combination of community governance, and compliant infrastructure. This positions Fish Network to outperform direct competitors while complementing indirect players like VC funds and public markets.
 
-#### 11.1 Go-to-Market Strategy
+#### 10.1 Go-to-Market Strategy
 
 Fish Network's GTM strategy is focused on serving the needs of emerging managers and their respective retail investors in private markets, starting with venture capital. Instead of passively providing a software product, we actively educate, mentor, and guide emerging managers to structure and launch investment clubs through our proprietary Emerging Manager Program.
 
 Phase 1: Base Ecosystem Focus + Emerging Manager Program (Months 1-12)
 
-Target:
+**Target:**
 
 * 3 Emerging Manager cohorts successfully delivered
 * 50 Fish Schools launched
@@ -1015,7 +1019,7 @@ Target:
 * 1,000+ active investors
 * 100+ startups funded
 
-Tactics:
+**Tactics:**
 
 * Emerging Manager education program
   * Offer first 10 Fish School Organizers zero platform fees
@@ -1026,14 +1030,14 @@ Tactics:
 
 Phase 2: Multi-Chain Expansion (Months 13-24)
 
-Target:
+**Target:**
 
 * 200 Fish Schools across multiple sectors
 * $50 million TVL
 * 10,000+ investors
 * 500+ startups funded
 
-Tactics:
+**Tactics:**
 
 * Launch on Arbitrum, Optimism, Polygon
 * Expand beyond crypto to traditional tech startups
@@ -1043,14 +1047,14 @@ Tactics:
 
 Phase 3: Platform Maturity (Months 25-36)
 
-Target:
+**Target:**
 
 * 500+ Fish Schools globally
 * $250 million+ TVL
 * 50,000+ investors
 * 2,000+ startups funded
 
-Tactics:
+**Tactics:**
 
 * White-label solution for VCs and corporate venture arms
 * International expansion (EU, APAC, LATAM)
@@ -1072,32 +1076,32 @@ Must maintain Fish School Organizer quality to drive the investor and founder fl
   * Number of deals shared across Fish Schools
   * Number of deals co-invested by 2 or more Fish Schools
 
-#### 11.3 Strategic Partnerships
+#### 10.3 Strategic Partnerships
 
 Fish Network leverages strategic partnerships to amplify its market reach and distribution into new ecosystems. Furthermore, we also leverage partnerships to offer platform participants access to value-additive services.
 
-Current Infrastructure Partners:
+**Current Infrastructure Partners:**
 
 * Coinbase / Base: Blockchain, custody, identity, onramps
 * Kraken: Institutional custody and compliance services
 * MetaLeX: Legal entity automation (BORGs/cyberCORPs)
 * Fairmint: Equity tokenization for portfolio companies
 
-Existing Service Providers Partners:
+**Existing Service Providers Partners:**
 
 * Law firms: Templated legal docs and compliance
 * Audit + Tax firms: Portfolio valuation and tax services
 * Marketing agencies: Fish School growth and branding
 * Analytics platforms: Data and insights for organizers
 
-Potential Distribution Partners:
+**Potential Distribution Partners:**
 
 * Base Ecosystem Fund: Deal flow and co-investment
 * Y Combinator: Access to alumni network
 * Techstars: Accelerator integration
 * A16z Crypto: Potential Shoal Leader and validator
 
-#### 11.4 Success Metrics - What does winning look like?
+#### 10.4 Success Metrics - What does winning look like?
 
 Fish Network quantifies success through a combination of traditional investment metrics and user engagement analytics(quantified through Fish Points).
 
@@ -1130,53 +1134,55 @@ Fish Network quantifies success through a combination of traditional investment 
     * Number of successful liquidity events and $ amount of distributions
     * % of startups with a subsequent success signal (ex. Series A raised, revenue milestones achieved)
 
-#### 11.5 Competitive Landscape
+#### 10.5 Competitive Landscape
 
-Direct Competitors:
+Fish Network stands out by unlocking standing capital and distributed decision-making across fragmented markets, turning the weaknesses of high-fee crowdfunding, lead-dependent syndicates, and non-compliant DAOs into opportunities for seamless, community-led investing.
 
-Traditional Crowdfunding Platforms:
+**Direct Competitors:**
 
-* Examples: StartEngine, Republic, Wefunder, SeedInvest
-* Weaknesses: High fees, poor UX, adverse selection
-* Fish Network advantage: Pre-funded pools, community governance, no listing fees
+**Traditional Crowdfunding Platforms:**
 
-Syndicate Platforms:
+* **Examples:** StartEngine, Republic, Wefunder, SeedInvest
+* **Weaknesses:** High fees, poor UX, adverse selection
+* **Fish Network advantage:** Pre-funded pools, community governance, no listing fees
 
-* Examples: AngelList, Assure, Alumni Ventures
-* Weaknesses: Deal-by-deal friction, lead-dependent model
-* Fish Network advantage: Standing capital, distributed decision-making
+**Syndicate Platforms:**
 
-DAO Investment Platforms:
+* **Examples:** AngelList, Assure, Alumni Ventures
+* **Weaknesses:** Deal-by-deal friction, lead-dependent model
+* **Fish Network advantage:** Standing capital, distributed decision-making
 
-* Examples: Syndicate Protocol, Spring.net
-* Weaknesses: Regulatory uncertainty, limited compliance infrastructure
-* Fish Network advantage: Compliant entity structure, qualified custody
+**DAO Investment Platforms:**
 
-Indirect Competitors:
+* **Examples:** Syndicate Protocol, Spring.net
+* **Weaknesses:** Regulatory uncertainty, limited compliance infrastructure
+* **Fish Network advantage:** Compliant entity structure, qualified custody
 
-Traditional VC Funds:
+**Indirect Competitors:**
 
-* Examples: Andreessen Horowitz, Sequoia, Paradigm
-* Weaknesses: Limited to US Accredited Investors; traditional LP structures give investors little control or rights.
-* Fish Network advantage: complements by enabling emerging managers to serve non-accredited investor market segment
+**Traditional VC Funds:**
 
-Public Markets:
+* **Examples:** Andreessen Horowitz, Sequoia, Paradigm
+* **Weaknesses:** Limited to US Accredited Investors; traditional LP structures give investors little control or rights.
+* **Fish Network advantage:** complements by enabling emerging managers to serve non-accredited investor market segment
 
-* Examples: Robinhood, Coinbase retail trading
-* Weaknesses: Onerous reporting requirements; investor focus on profitability instead of scaling innovative public goods
-* Fish Network advantages: Leverage hybrid vehicles that mix private and public markets for diversification opportunities; ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
+**Public Markets:**
+
+* **Examples:** Robinhood, Coinbase retail trading
+* **Weaknesses:** Onerous reporting requirements; investor focus on profitability instead of scaling innovative public goods
+* **Fish Network advantages:** Leverage hybrid vehicles that mix private and public markets for diversification opportunities; ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
 
 ***
 
-### 12. Conclusion
+### 11. Conclusion
 
-#### 12.1 The Opportunity
+#### 11.1 The Opportunity
 
 We stand at an inflection point. Technology has enabled smaller teams to achieve outsized outcomes, yet the infrastructure for matching capital with innovation remains rooted in analog processes, misaligned incentives, and unnecessary intermediaries.
 
 Fish Network solves this by creating transparent, community-driven investment infrastructure built on blockchain rails. By pre-funding capital pools, distributing decision-making, and enforcing transparency through smart contracts, we eliminate the friction that has plagued both founders and investors.
 
-#### 12.2 Why Now
+#### 11.2 Why Now
 
 Three converging trends make Fish Network possible today:
 
@@ -1187,7 +1193,7 @@ Three converging trends make Fish Network possible today:
 3. Market demand: $19.6B in crypto VC deals (2024) shows appetite for digital-native solutions.&#x20;
    1. The Base L2 ecosystem alone represents $10+ billion in USDC liquidity seeking productive deployment. Capturing even 1% of this market creates a $100 million platform.
 
-#### 12.3 The Vision
+#### 11.3 The Vision
 
 Fish Network is building more than a crowdfunding platform. We're creating the operating system for democratized venture capital - infrastructure that will power community-driven investment for decades to come.
 
@@ -1199,7 +1205,7 @@ A world where:
 * Transparency and fairness replace relationships and opacity
 * Small teams building transformative companies find capital fast
 
-#### 12.4 Join Us
+#### 11.4 Join Us
 
 Whether you're an investor seeking access to high-quality ventures, a domain expert ready to launch your Fish School, or a founder looking for mission-aligned capital, Fish Network provides the infrastructure to participate in the future of venture capital.
 
@@ -1235,65 +1241,65 @@ USDC: USD Coin, dollar-pegged stablecoin used for all platform transactions
 
 #### Investment Risks
 
-Loss of Capital: All venture investments carry risk of total loss. Investors should only commit capital they can afford to lose.
+**Loss of Capital:** All venture investments carry risk of total loss. Investors should only commit capital they can afford to lose.
 
-Illiquidity: Despite redemption windows, Fish School investments are fundamentally illiquid and may not be readily convertible to cash.
+**Illiquidity:** Despite redemption windows, Fish School investments are fundamentally illiquid and may not be readily convertible to cash.
 
-Dilution: Portfolio companies may raise additional capital, diluting Fish School ownership stakes.
+**Dilution:** Portfolio companies may raise additional capital, diluting Fish School ownership stakes.
 
-Valuation Uncertainty: Private company valuations are subjective and may not reflect fair market value.
+**Valuation Uncertainty:** Private company valuations are subjective and may not reflect fair market value.
 
-Concentration Risk: Fish Schools focused on specific sectors may be heavily impacted by industry-specific downturns.
+**Concentration Risk:** Fish Schools focused on specific sectors may be heavily impacted by industry-specific downturns.
 
 #### Technology Risks
 
-Smart Contract Risk: Bugs or vulnerabilities in smart contracts could result in loss of funds despite audits.
+**Smart Contract Risk:** Bugs or vulnerabilities in smart contracts could result in loss of funds despite audits.
 
-Blockchain Risk: Base L2 or Ethereum network issues could disrupt platform operations.
+**Blockchain Risk:** Base L2 or Ethereum network issues could disrupt platform operations.
 
-Custody Risk: Despite qualified custodians, digital asset theft or loss remains possible.
+**Custody Risk:** Despite qualified custodians, digital asset theft or loss remains possible.
 
-Key Management: Loss of private keys could result in inability to access investments or voting rights.
+**Key Management:** Loss of private keys could result in inability to access investments or voting rights.
 
 #### Regulatory Risks
 
-Regulatory Change: Securities laws and crypto regulations are evolving; future changes may impact operations.
+**Regulatory Change:** Securities laws and crypto regulations are evolving; future changes may impact operations.
 
-Compliance Costs: Increased regulatory scrutiny could raise operational costs and reduce profitability.
+**Compliance Costs:** Increased regulatory scrutiny could raise operational costs and reduce profitability.
 
-Enforcement Actions: SEC or state regulators could bring enforcement actions affecting platform or Fish Schools.
+**Enforcement Actions:** SEC or state regulators could bring enforcement actions affecting platform or Fish Schools.
 
-Tax Treatment: Tax treatment of Fish Points and digital securities may change, creating unexpected liabilities.
+**Tax Treatment:** Tax treatment of Fish Points and digital securities may change, creating unexpected liabilities.
 
 #### Platform Risks
 
-Adoption Risk: Platform may fail to achieve critical mass of users, limiting network effects.
+**Adoption Risk:** Platform may fail to achieve critical mass of users, limiting network effects.
 
-Competition: Existing platforms or new entrants could capture market share.
+**Competition:** Existing platforms or new entrants could capture market share.
 
-Organizer Risk: Poor performance or misconduct by Fish School Organizers could damage reputation.
+**Organizer Risk:** Poor performance or misconduct by Fish School Organizers could damage reputation.
 
-Technology Failure: Bugs, downtime, or security breaches could erode user trust.
+**Technology Failure:** Bugs, downtime, or security breaches could erode user trust.
 
 #### Market Risks
 
-Economic Downturn: Recession or market crash could reduce startup valuations and exit opportunities.
+**Economic Downturn:** Recession or market crash could reduce startup valuations and exit opportunities.
 
-Crypto Market Volatility: Despite USDC stability, broader crypto market volatility may impact user confidence.
+**Crypto Market Volatility:** Despite USDC stability, broader crypto market volatility may impact user confidence.
 
-Startup Failure Rate: Venture-backed startups have high failure rates; most investments will not return capital.
+**Startup Failure Rate:** Venture-backed startups have high failure rates; most investments will not return capital.
 
 ***
 
 ### Appendix C: Legal Disclaimers
 
-This whitepaper is for informational purposes only and does not constitute:
+**This whitepaper is for informational purposes only and does not constitute:**
 
 * An offer or solicitation to sell securities
 * Investment, legal, or tax advice
 * A guarantee of returns or performance
 
-All potential investors should:
+**All potential investors should:**
 
 * Conduct independent due diligence
 * Consult qualified legal and financial advisors
@@ -1306,11 +1312,11 @@ Past performance does not guarantee future results. All projections are forward-
 
 ***
 
-Document Version: 1.0\
-Last Updated: November 1, 2025\
-Contact: \[legal@fishnetwork.co]\
-Website: [www.fishnetwork.co](http://www.fishnetwork.co)\
-Documentation: docs.fishnetwork.co
+Document Version: 1.0
+Last Updated: November 1, 2025
+Contact: [legal@fishnetwork.co](mailto:legal@fishnetwork.co)
+Website: [www.fishnetwork.co](http://www.fishnetwork.co)
+Documentation: [docs.fishnetwork.co](https://docs.fishnetwork.co)
 
 ***
 
