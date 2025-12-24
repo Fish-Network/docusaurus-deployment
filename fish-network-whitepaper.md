@@ -173,7 +173,7 @@ Formation Phase:
 
 Funding Phase:
 
-* Investors undergo KYC/KYB through Coinbase or Kraken infrastructure
+* Fish School Organizers undergo KYC/KYB through Coinbase or Kraken infrastructure
 * Capital contributions are made in USDC
 * Funds flow to qualified custody (Coinbase Prime/Kraken) for security
 * Smart contracts on Base L2 manage escrow and routing
@@ -191,7 +191,7 @@ Distribution + Portfolio Support Phase:
 * Portfolio companies achieve liquidity events (acquisition, IPO, secondary sales)
 * Proceeds flow back through smart contracts
 * Automated distribution to Fish School members proportional to ownership
-* Fish Points rewards for successful picks, building member reputation
+* Fish reputation points as rewards for successful picks, building member reputation
 
 **Future Use Case:** Rolling "funds" as investment clubs
 **Future Enhancement:** Quadratic voting, equity-based voting
