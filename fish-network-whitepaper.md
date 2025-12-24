@@ -1220,19 +1220,21 @@ Base L2: Coinbase's Ethereum Layer 2 blockchain optimized for consumer applicati
 
 Fish: Individual investor participating in Fish Schools
 
-Fish Network: The platform enabling creation and operation of Fish Schools
+Fish Network: The platform enabling creation and operation of Fish Schools and Shoals
 
 Fish Points: Non-transferable reputation token earned through platform participation
 
-Fish School: Community-driven investment club structured as Series LLC
+Fish School: Community-driven investment club structured as Series LLC to pool investments together
 
 Fish School Organizer: Vetted expert managing a specific Fish School
+
+Fish Shoal: Non-capital pooling investment club that facilitates a shared community aggregation layer
+
+Shoal Leader: B2B entity overseeing multiple Fish Schools with shared services
 
 Reg CF: SEC Regulation Crowdfunding allowing up to $5M raises from retail investors
 
 Series LLC: Legal structure where each "series" operates as separate entity with liability protection
-
-Shoal Leader: Manager overseeing multiple Fish Schools with shared services
 
 USDC: USD Coin, dollar-pegged stablecoin used for all platform transactions
 
@@ -1314,7 +1316,7 @@ Past performance does not guarantee future results. All projections are forward-
 ***
 
 Document Version: 1.0
-Last Updated: November 1, 2025
+Last Updated: December 24, 2025
 Contact: [legal@fishnetwork.co](mailto:legal@fishnetwork.co)
 Website: [www.fishnetwork.co](http://www.fishnetwork.co)
 Documentation: [docs.fishnetwork.co](https://docs.fishnetwork.co)
