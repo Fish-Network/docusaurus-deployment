@@ -641,7 +641,7 @@ The Nominee's Role is to execute investments pursuant to pre-approved mandate. T
 This structure has the following three benefits when compared to a member-managed LLC.
 
 1) Cleaner external representation
-2) Faster Execution
+2) Faster execution
 3) Simplifies reporting
 
 #### 7.2 Securities Regulation Compliance
