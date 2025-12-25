@@ -229,7 +229,7 @@ Unlike traditional crowdfunding platforms, Fish Network does not charge startups
 
 #### 3.4 Key Differentiators for Fish Schools
 
-Instead of CrowdSAFEs, which strip investors of voting rights(similar to traditional SPVs), Fish Network introduces a nominee structure to streamline admin, and a nominee delegate(typically an individual) to simplify accountability, distribute workload, and give power to the "fish."
+Instead of CrowdSAFEs, which strip investors of voting rights (similar to traditional SPVs), Fish Network introduces a nominee structure to streamline admin, and a nominee delegate(typically an individual) to simplify accountability, distribute workload, and give power to the "fish."
 
 Furthermore, Fish Network provides its Fish Schools with a built-in [Nominee Rider side letter](https://docs.google.com/document/d/1aEJiINeprfwtibHhGJa-JXveAWzKpNGcymzFsiwh2Eo/edit?tab=t.0#heading=h.i4qdgr3pksx1), to provide more governance protections to the Fish, such as information and pro-rata rights.
 
@@ -601,7 +601,7 @@ Customers will form a Master Series LLC on platform owned by their existing enti
 
 Fish Network provides flexibility in structuring to accomodate a broad set of use cases for compliant on-chain capital formation. Fish Schools are currently Member-Managed LLCs with a Nominee Delegate(defined below).
 
-Upon approval of an investment proposal, the platform executes the investment using a **nominee-based structure** that mimics a traditional CrowdSAFE instrument, but instead gives investors voting rights, amongst other protections, upon a trigger event that warrants a conversion into traditional equity.
+Upon approval of an investment proposal, the platform executes the investment using a **nominee-based structure** that mimics a traditional CrowdSAFE instrument, but Instead gives investors actual equity with voting rights, amongst other protections upon a trigger event that warrants conversion into traditional equity shares(typically common stock).
 
  ![](<.gitbook/assets/image (4).png>)
 
