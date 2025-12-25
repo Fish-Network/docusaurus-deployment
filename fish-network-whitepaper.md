@@ -799,8 +799,8 @@ Fish Network plans to retain additional verticals(such as Real Estate, Art, and 
 
 **Who They Are:**
 
-* Early-stage companies (pre-seed, seed, Series A)
 * Primarily Base ecosystem builders initially
+* Early-stage companies (pre-seed, seed, Series A)
 * Companies seeking mission-aligned capital and community
 * Founders who value transparency and fairness
 
