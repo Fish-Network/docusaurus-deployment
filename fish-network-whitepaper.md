@@ -406,7 +406,7 @@ Fish Network provides an agentic AI system (“Fish Agents”) that supports inv
 * **Organizer Social Agent:** Generates compliant communications for Fish School Organizers (FSOs) to distribute thesis updates, calls-to-action (e.g., “vote by Friday”), and post-investment reporting to their existing community channels.
 * **Startup Update Agent:** Helps portfolio startups draft structured investor updates (monthly metrics, milestones, risks, asks) and routes questions back to founders in an organized queue.
 
-**Consent, Identity, and Auditability**
+**Consent, Identity, and Auditability**:
 All agentic interactions that result in governance or capital-routing actions require:
 
 1. Verified identity (KYC/KYB),
@@ -414,14 +414,14 @@ All agentic interactions that result in governance or capital-routing actions re
 3. A cryptographic signature by the user’s wallet.
    The system may store a hash of the consent transcript and link it to the corresponding on-chain transaction for auditability.
 
-**Compliance-First Design**
+**Compliance-First Design**:
 Fish Agents are designed to increase active participation by reducing friction (reading time, coordination cost, execution complexity). They do not remove responsibility from individual members and do not autonomously manage pooled assets.
 
 ***
 
 ### 5. Future Economic System of Engineered Liquidity
 
-*this model will be available to non-US Citizens only
+_*this model will be available to non-US residents only_
 
 #### 5.1 Liquidity in Private Markets
 
