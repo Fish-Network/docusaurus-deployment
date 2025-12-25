@@ -581,7 +581,7 @@ Future Monetization Paths:
 
 1. Transaction fees on capital deployment (1% baseline)
 2. Management fees on platform treasury and services (2% annual)
-3. Premium services for organizers (analytics, marketing, legal templates)
+3. Premium services for Fish Shoals and Schools (analytics, marketing, legal templates)
 4. Data licensing (anonymized deal flow and performance metrics)
 5. Secondary market fees when liquidity mechanisms launch
 
