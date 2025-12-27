@@ -168,7 +168,7 @@ Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven i
 * **Lockups:** Default **3‑week** post‑deposit window; some schools may set **up to 1 year**.
 * **Shared Liquidity:** Synthetic exposure to illiquid assets, collateralized by liquid crypto; cross‑school redemption support.
 
-The **"50/40/10 Split"** Fish School structure is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.
+*The **"50/40/10 Split"** Fish School structure is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.*
 
 ## **Market Growth Vectors:**
 
