@@ -1,16 +1,14 @@
 ---
-title: Fish Network - Driving the Billion Dollar Small Team Era
----
 
-# Fish Network - Driving the Billion Dollar Small Team Era
+# Fish Network - A Paradigm Shift For Retail Investors
 
 ## **The Billion Dollar Small Team Era**
 
 Over the past decade, we've seen an accelerating trend: billion-dollar companies being built and scaled by small, hyper-efficient teams. What used to require hundreds of employees, multiple offices, and years of infrastructure can now be accomplished by fewer than a dozen founders and operators.
 
-More recently, AI-driven product teams and crypto protocols are positioned to capitalize on this pattern at scale: small squads, plugged into global capital and infrastructure, achieving valuations once reserved for traditional Fortune-500-scale organizations. With a rapidly evolving market economy, founders and fund managers are choosing tools that empower teams for this new frontier versus incumbent systems.
+More recently, AI-driven product teams and crypto protocols are positioned to capitalize on this pattern at scale: small squads, plugged into global capital and infrastructure, achieving valuations once reserved for traditional Fortune-500-scale organizations. With a rapidly evolving market economy, founders and investors are choosing tools that empower teams for this new frontier.
 
-Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale venture investment communities while cultivating investor trust and reputation through transparent on-chain systems.
+Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
 ![Fish Network Overview](/img/gitbook/0%20(1).png)
 
@@ -19,70 +17,53 @@ Introducing Fish Network. A platform where you can scale entities with almost no
 Traditional crowdfunding portals are symptomatic of the old model:
 
 * **High costs**: pay-to-list fees and ongoing compliance overhead.
-* **Poor match quality**: high-quality issuers avoid the portals, leaving lower-signal deals to dominate.
+* **Poor match quality**: high-quality issuers avoid the portals, leaving retail investors with limited choice.
 * **Investor friction**: decision-making is hampered by lack of transparency and uncertain liquidity.
 
-Crowdfunding portals are costly, pay‑to‑list, and have low‑touch interaction rates after matching.
+Crowdfunding portals are founder friendly at the expense of the investor. Investors struggle to make informed decisions, with no control over outcomes, or visibility into real-time progress. Issuers with strong fundamentals avoid portals due to fees (typically 10% of AUM for operating and legal expenses) and ongoing compliance burdens, leaving weaker deals to dominate supply.
 
-Investors struggle to make informed decisions and face long/uncertain liquidity.
-
-And Issuers with strong fundamentals avoid portals due to fees (typically 10% of AUM for operating and legal expenses) and ongoing compliance burdens, leaving weaker deals to dominate supply.
-
-This explains why the model hasn't scaled—strong fundamentals avoid it, and investors don't trust it.
+This explains why the model hasn't scaled — strong fundamentals avoid it, and investors don't trust it.
 
 ## **A Flywheel For The New Economy**
 
-Imagine being able to find accredited investors, build your team of fund managers, manage multiple startups or deal flow, all in one platform. This infrastructure becomes a flywheel: more startups form, more investors participate, and more liquidity flows through the system, reinforcing a future where economic power is distributed among thousands of small, high-output teams.
+Imagine being able to build your community of aligned founders and investors on auto-pilot, manage personal relationships with ease, source and manage deal flow, all while raising capital within one platform. This infrastructure becomes a flywheel: more startups form, more investors participate, and more liquidity flows through the system, reinforcing a future where economic power is distributed among thousands of small, high-output teams.
 
 Leveraging Coinbase's L2 BASE, identity verification, custody, and business accounts services, we are able to provide issuers with a comprehensive software and legal framework for raising capital.
 
-We aim to be a significant development in the retail space for on-chain compliant fundraising.
-
-Offering future proof entity management tools:
-
-* Fast network formation
-* A more effective capital raising network
-
-**Stablecoins:** As of Q4 2024, the USDC share on the Base network was over $10 billion¹.
-
-![Base Network Stats](/img/gitbook/1%20(1).png)
-
-Capturing just 1% of this market would equal a TVL of $10M locked in the Fish Network smart contract.
-
-## **Market Growth Vectors:**
-
-At scale, the Fish Network provides individual investors more optionality, liquidity, and diversification, creating a competitive advantage for emerging managers, all while providing much needed capital support to the best early stage founders.
-
-The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital.
-
-**1) Reg A+.** Once the crowdfunding market is captured, we have the ability to expand into Reg A+ offerings above $5M.
-
-**2) New Asset Classes:** Initially we are targeting the venture capital market; this model can be extended to any illiquid asset class where investors may want liquidity optionality.
-
-**3) Crypto Native Funds:** Fish Schools should have the ability to pursue more crypto native investment strategies, such as holding ETH instead of USDC in reserve. However, we have designed the Fish Network to be insulated from most crypto market risks.
-
-4) **Institutional Investor Adoption:** In phase 2 of the Fish Network, we will unlock a fund of funds model enabling investors to receive diversified exposure to all of the Fish Schools, with minimal crypto-native risk exposure. This could unlock large pools of capital comfortable with the Coinbase & Kraken ecosystems.
-
 ## **What Unlocks This New Market Opportunity**
 
-Small teams can reach outsized outcomes when three layers align:
+Small teams can achieve outsized outcomes when four layers align:
 
+1. **Market Demand**
+   * $19.6B in crypto VC deals (2024) shows appetite for digital-native solutions.
+   * The Base L2 ecosystem alone represents $10+ billion in USDC liquidity seeking productive deployment. Capturing even 1% of this market creates a $100 million platform.
 1. **Fast Network Formation**
-   * The ability to assemble distributed experts, operators, and backers instantly, without relying on legacy hiring pipelines.
+   * On-chain formation + compliance tools enables distributed experts, operators, and backers to form instantly, without relying on legacy hiring pipelines.
    * DAOs and on-chain governance create "flash teams" that can form, disband, and reform around high-value opportunities.
+   * Fish Network provides streamlined access to institutional-grade custody; on-chain identity solutions offer a lower cost alternative to traditional KYC.
 2. **More Effective Capital Raising**
    * Traditional fundraising is fragmented and slow. Issuers burn cycles navigating investor discovery, compliance paperwork, and low-signal conversations.
-   * A networked, on-chain capital formation layer would let accredited investors and fund managers plug directly into opportunities, transact transparently, and exit with liquidity.
+   * A networked, AI enabled capital formation layer allows retail investors and emerging managers to plug directly into opportunities, transact transparently, and exit with liquidity.
+3. **Regulatory Clarity**
+   * Reg CF and investment club structure provides a compliant path for community capital formation.
+   * Potential for change in US accreditation requirements would streamline retail participation in private markets.
 
-On-chain formation + compliance tools can make managing multiple startups or funds as simple as switching tabs in a dashboard.
+\\
+
 
 ![Dashboard Preview](/img/gitbook/2%20(1).png)
 
 ## **The Fish Network Solution**
 
-The Fish Network provides a platform to effectively find and capitalize the best startups building on top of Coinbase's L2, the [BASE Network](https://www.base.org/), as well as other similarly situated technologies and investor communities.
+**Company Approach:**
 
-In the Fish Network, investors are organized into community driven Investment Clubs, based on the organizers' expertise. This structure of collective decision making serves two purposes:
+By leveraging best practices in [On-Chain Capital Allocation](https://allobook.gitcoin.co/), we enable investors to form thesis driven communities, and also enable communities to create turn-key investment vehicles. By leveraging a hybrid funding model, we allow the best startups to compete for immediate access to capital. The Fish Network provides a platform to effectively find and capitalize the best startups building on top of Coinbase's L2, the [BASE Network](https://www.base.org/), as well as other similarly situated technologies and investor communities.
+
+**Investment Clubs & Fish Schools:** Fish swim in Structure, Coordination, Direction.
+
+_**Fish School**_ - a hybrid crowdfunding entity for investors, with expert-level research, investor community development, and compliance. Each Fish School has a dedicated Fish School Organizer with expertise in a given field. Fish School Organizers offer support and guidance to investor participants who help select the best startups to be funded. Fish Schools store their funds directly with qualified custodians.
+
+**Structure:** Investors are organized into community driven Investment Clubs, based on the organizers' expertise. This structure of collective decision making serves two purposes:
 
 1. To further assist with diligence in order to select the most qualified startups via a voting process for each funding campaign.
 2. To avoid the General Partner, and Financial Advisor liabilities by relying on collective decision making, which also helps reduce operational costs.
@@ -94,9 +75,9 @@ _**Coordination:**_ A Fish School Organizer will be appointed in each newly form
 * To provide accountability over the formation of the LLC, including SEC registration via Form C, and sourcing of accounting, legal, and admin services.
 * To spearhead the business development & startup screening process; facilitating the funding of the startups competing for a portion of the funds raised.
 
-_**Direction:**_ The Fish School Organizers are responsible for orchestrating the submission, review, and vetting processes for the best-qualified startups competing for funds. Organizers provide continued support in distributing the funds to the startup and future redemption of shares, USDC, and FISH points to the investors; in exchange for an agreed upon commission from the Fish Network Treasury.
+Each Fish School has an escrow + qualified custody account created by the organizer, to safeguard the capital from the moment it was contributed by Investors, to the moment it is distributed to the winning startup.
 
-Each Fish School has an Escrow account created by the organizer, to safeguard the capital from the moment it was contributed by Investors, to the moment it is distributed to the winning startup. For Escrow accounts, The Fish Network leverages Coinbase & Kraken custody products to reduce counterparty risk.
+_**Direction:**_ The Fish School Organizers are responsible for orchestrating the submission, review, and vetting processes for the best-qualified startups competing for funds. Organizers provide the initial thesis thought leadership, and continued support in distributing the funds to the startup and future redemption of shares, USDC, and FISH points to the investors; in exchange for an agreed upon commission from the Fish School and/or Fish Network Treasury.
 
 Altogether, the personal _identity verification, business accounts, and Custody_ features are utilized to reduce the cost of doing business, and will allow new investors to seamlessly connect to our investor ecosystem through a trusted medium.
 
@@ -118,17 +99,7 @@ The Fish Network is a compliant, semi‑liquid platform that turns thesis‑driv
 
 Use **shared liquidity** to provide synthetic exposure and shorter lockups.
 
-Compliance powered via established crypto infra (KYC/KYB, qualified custody, identity primitives).
-
 Fish Network is built specifically for compliant capital formation and represents a set of tools for emerging managers to offer their investors a different set of tradeoffs between liquidity, optionality, and diversification.
-
-**Company Approach:**
-
-By leveraging best practices in [On-Chain Capital Allocation](https://allobook.gitcoin.co/), we enable investors to form thesis driven communities, and also enable communities to create turn-key investment vehicles. By leveraging a hybrid funding model, we allow the best startups to compete for immediate access to capital.
-
-**Investment Clubs & Fish Schools:** Structure, Coordination, Direction.
-
-_**Fish School**_ - a hybrid crowdfunding entity for investors, with expert-level research, investor community development, and compliance. Each Fish School has a dedicated Fish School Organizer with expertise in a given field. Fish School Organizers offer support and guidance to investor participants who help select the best startups to be funded. Fish Schools store their funds directly with qualified custodians.
 
 ## Roles on Fish Network
 
@@ -160,14 +131,6 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **Responsibilities:** Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
 * **Incentives:** Platform fees, brand/community expansion, ability to route capital to top‑performing Organizers, LP relations.
 
-### **Fish Rewards Points**
-
-Fish Points are a social reward mechanism designed to boost engagement within our investor ecosystem. This enables angel investors and emerging managers a new avenue to showcase their wins, build community, and connect with like-minded investors.
-
-There are several ways for awarding and using Fish Points; capital commitments, community decision making processes, voting, and other future use-cases.
-
-This will ultimately help streamline retail crowdfunding, and activate a new network of emerging managers.
-
 ### _**Structure (Today):**_ Investors earn reputation points by committing capital into Fish Schools. The **current live model** uses the "80/20 Micro‑Fund" structure described below (≥80% to investments; ≤20% to admin/ops).
 
 The previously proposed **"50/40/10 Split"** is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.
@@ -196,7 +159,7 @@ The previously proposed **"50/40/10 Split"** is a **future, optional liquidity m
 
 ## Tech Stack
 
-* **Base L2** for on‑chain mechanics and identity integrations.
+* **Base L2** for on‑chain mechanics, USDC accessibility, and identity integrations.
 * **Routing contracts** for splits/escrow and reward accrual.
 * **Reputation**: Fish Points as non‑transferable reputation; dashboard for contribution & performance history.
 
@@ -209,15 +172,29 @@ The previously proposed **"50/40/10 Split"** is a **future, optional liquidity m
 
 ## Risks & Mitigations
 
-* **Regulatory clarity:** pre‑vetted club docs; escalation path via BD/portal partnerships.
-* **Liquidity bootstrapping:** seed liquidity facility; FoF to smooth flows.
-* **Manager quality:** rigorous Organizer vetting; Shoal Leader QA and shared services.
+* **Regulatory clarity:** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
+* **Liquidity bootstrapping:** Initial Fish Schools raising sufficient capital; target professional emerging managers
+* **Manager quality:** Rigorous Organizer vetting; Shoal Leader QA and shared services.
 
 ## Use Cases
 
 * **Emerging manager bootstrapping** (Organizer): launch a school for a focused thesis; convert community into deployable, semi‑liquid capital.
 * **VC platform (Shoal Leader):** multi‑manager program, LP engagement, &lt;$25k investor activation, follow‑on syndication.
 * **B2B ecosystem:** corporate or protocol‑aligned schools to fund partner ecosystems.
+
+
+## **Market Growth Vectors:**
+
+The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital.
+
+**1) Reg A+.** Once the crowdfunding market is captured, we have the ability to expand into Reg A+ offerings above $5M.
+
+**2) New Asset Classes:** Initially we are targeting the venture capital market; this model can be extended to any illiquid asset class where investors may want liquidity optionality.
+
+**3) Crypto Native Funds:** Fish Schools should have the ability to pursue more crypto native investment strategies, such as holding ETH instead of USDC in reserve. However, we have designed the Fish Network to be insulated from most crypto market risks.
+
+**4) Institutional Investor Adoption:** At scale, Fish Network unlocks a fund of funds model enabling investors to receive diversified exposure to all of the Fish Schools, with minimal crypto-native risk exposure. This could unlock large pools of capital comfortable with the Coinbase & Kraken ecosystems.
+
 
 ## Conclusion
 
@@ -229,11 +206,4 @@ The investment model for Fish Schools is inherently sector agnostic. Investment 
 
 Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to trust their gut or leverage the wisdom of the crowd.
 
-We are building alongside Coinbase and Kraken for these reasons:
-
-1. **No-Coiner\* Onboarding** - By being integrated with well established leaders in the US, attracting new market participants becomes an order of magnitude easier
-2. **Legal Risk** - By being tightly integrated with well understood players in crypto(i.e. exchanges) we can reduce our legal overhead dramatically
-3. **Operational Cost** - Integrating with Coinbase & Kraken allows us to reduce the investor onboarding cost to a minimum, with ongoing reporting and compliance.
-
-The Fish Network aims to be decentralized with fewer cost bottlenecks (onboarding, compliance, reporting, etc). Coinbase Wallet offers free identity registration using [CB.ID](https://wallet.coinbase.com/) with a _Base.eth_ domain, which enables the Fish Network to easily KYC its users. For Fish Schools, a KYB process is implemented to sign transactions on behalf of the Investment Clubs by its Fish School Organizers.
-
+Fish Network provides individual investors more optionality, liquidity, and diversification, creating a competitive advantage for emerging managers, all while providing much needed capital support to the best early stage founders.
