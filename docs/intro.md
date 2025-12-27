@@ -124,7 +124,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 ### Fees & Liquidity
 
-* **Organizer fee:** Front‑loaded administrative fee; covers Fish Network fee and optional at-cost compensation for Organizer(s).
+* **Administrative fee:** Up-front fee can be taken pro-rata from the Fish School; covers Fish Network fee and optional at-cost compensation for Organizer(s).
 * **Potential for Liquidity:** Ability to opt-in to shared liquidity layer to enable early redemptions (subject to fees/lockups per school).
 * **Distributions:** Organizer executes share‑to‑USDC conversions and returns proceeds to school equity holders.
 
