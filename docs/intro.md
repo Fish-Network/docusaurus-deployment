@@ -55,7 +55,7 @@ By leveraging best practices in [On-Chain Capital Allocation](https://allobook.g
 
 **Investment Clubs & Fish Schools:** Fish swim in Structure, Coordination, Direction.
 
-_**Fish School**_ - a hybrid crowdfunding entity for investors, with expert-level research, investor community development, and compliance. Each Fish School has a dedicated Fish School Organizer with expertise in a given field. Fish School Organizers offer support and guidance to investor participants who help select the best startups to be funded. Fish Schools store their funds directly with qualified custodians.
+_**Fish School**_ - a hybrid crowdfunding entity for investors, with expert-level research, investor community development, and compliance. Each Fish School has a dedicated Fish School Organizer with expertise in a given field. Fish School Organizers offer support and guidance to investor participants who help select the best startups to be funded.
 
 **Structure:** Investors are organized into community driven Investment Clubs, based on the organizers' expertise. This structure of collective decision making serves two purposes:
 
