@@ -191,6 +191,4 @@ The investment model for Fish Schools is inherently sector agnostic. Investment 
 
 ![Fish Network Platform](/img/gitbook/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
 
-Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to trust their gut or leverage the wisdom of the crowd.
-
-Fish Network provides individual investors more optionality, liquidity, and diversification, creating a competitive advantage for emerging managers, all while providing much needed capital support to the best early stage founders.
+Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to deploy behind trusted organizers, trust their gut, or leverage the wisdom of the crowd through Fish Schools. Fish Network creates a competitive advantage for emerging managers, all while providing much needed capital support to the best early stage founders.
