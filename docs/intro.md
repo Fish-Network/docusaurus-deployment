@@ -73,13 +73,11 @@ Each Fish School has an escrow + qualified custody account created by the organi
 
 _**Direction:**_ The Fish School Organizers are responsible for orchestrating the submission, review, and vetting processes for the best-qualified startups competing for funds. Organizers provide the initial thesis thought leadership, and continued support in distributing the funds to the startup and future redemption of shares, USDC, and FISH points to the investors; in exchange for an agreed upon commission from the Fish School and/or Fish Network Treasury.
 
-Altogether, the personal _identity verification, business accounts, and Custody_ features are utilized to reduce the cost of doing business, and will allow new investors to seamlessly connect to our investor ecosystem through a trusted medium.
-
 **What's different:** Capital is pooled up‑front, Diligence is community‑driven, Liquidity is coordinated across organizations, and admin is a streamlined experience handled via KYC/KYB and qualified custody.
 
 **Go-to-Market Approach:**
 
-The Fish Network provides a platform to effectively find and capitalize the best startups building on top of Coinbase's L2, the [BASE Network](https://www.base.org/), as well as other similarly situated technologies and investor communities. Leveraging Coinbase's L2 BASE, identity verification, custody, and business accounts services, we are able to provide issuers with a comprehensive software, legal, and operational framework for raising capital.
+The Fish Network provides a platform to effectively find and capitalize the best startups building on top of Coinbase's L2, the [BASE Network](https://www.base.org/), as well as other similarly situated technologies and investor communities. Leveraging Coinbase's L2 BASE, identity verification, custody, and business accounts services, we are able to provide issuers with a comprehensive software, legal, and operational framework for raising capital. Altogether, on-chain primitives are utilized to reduce the cost of doing business, and will allow new investors to seamlessly connect to our investor ecosystem through a trusted medium.
 
 ## Roles on Fish Network
 
