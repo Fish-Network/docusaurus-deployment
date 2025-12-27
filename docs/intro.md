@@ -128,6 +128,12 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **Potential for Liquidity:** Ability to opt-in to shared liquidity layer to enable early redemptions (subject to fees/lockups per school).
 * **Distributions:** Organizer executes share‑to‑USDC conversions and returns proceeds to school equity holders.
 
+## Use Cases
+
+* **Emerging manager bootstrapping** (Organizer): launch a school for a focused thesis; convert community into deployable, semi‑liquid capital.
+* **VC platform (Shoal Leader):** multi‑manager program, LP engagement, &lt;$25k investor activation, follow‑on syndication.
+* **B2B ecosystem:** corporate or protocol‑aligned schools to fund partner ecosystems.
+
 ## Tech Stack
 
 * **Base L2** for on‑chain mechanics, USDC accessibility, and identity integrations.
@@ -140,18 +146,6 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **Identity:** KYC (Fish) / KYB (School) via integrated identity (e.g., cb.id / ENS).
 * **Custody & Escrow:** Qualified custodians (e.g., Coinbase Prime / Kraken) with routing contracts and 21‑day escrow periods.
 * **Notes:** Avoid GP/advisor roles by relying on club voting; maintain records for audits and redemptions.
-
-## Risks & Mitigations
-
-* **Regulatory clarity:** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
-* **Liquidity bootstrapping:** Initial Fish Schools raising sufficient capital; target professional emerging managers
-* **Manager quality:** Rigorous Organizer vetting; Shoal Leader QA and shared services.
-
-## Use Cases
-
-* **Emerging manager bootstrapping** (Organizer): launch a school for a focused thesis; convert community into deployable, semi‑liquid capital.
-* **VC platform (Shoal Leader):** multi‑manager program, LP engagement, &lt;$25k investor activation, follow‑on syndication.
-* **B2B ecosystem:** corporate or protocol‑aligned schools to fund partner ecosystems.
 
 ## Product Roadmap
 
@@ -169,6 +163,12 @@ Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven i
 * **Shared Liquidity:** Synthetic exposure to illiquid assets, collateralized by liquid crypto; cross‑school redemption support.
 
 *The **"50/40/10 Split"** Fish School structure is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.*
+
+## Risks & Mitigations
+
+* **Regulatory clarity:** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
+* **Liquidity bootstrapping:** Initial Fish Schools raising sufficient capital; target professional emerging managers
+* **Manager quality:** Rigorous Organizer vetting; Shoal Leader QA and shared services.
 
 ## **Market Growth Vectors:**
 
