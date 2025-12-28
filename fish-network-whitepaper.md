@@ -441,6 +441,8 @@ Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market 
 
 **Liquidity:** Shared liquidity layer enables early redemptions; minimum lockup period is 3 weeks up to 1 year(subject to fees/lockups per school).
 
+**Synthetic Exposure + Active Governance:** Tokenized investment club equity provides diversified exposure to US assets for international investors; may also provide the investor other protective covenants such as tag-along, voting, or information rights.
+
 #### 5.2 Capital Flow
 
 **Investor Contribution → Fish School:**
