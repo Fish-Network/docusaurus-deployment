@@ -199,6 +199,8 @@ A Fish School is a community-driven investment club structured as a Series LLC, 
 
 **Future Enhancement:** Quadratic voting and/or equity-weighted voting
 
+**Future Liquidity:** Ability to opt-in to Liquidity Premium via governance vote
+
 #### 3.3 Fish School Fee Structure
 
 **No Pay-to-List:**
@@ -225,6 +227,7 @@ Unlike traditional crowdfunding platforms, Fish Network does not charge startups
 * No subscription fees to join Fish Schools
 * No performance fees paid to Fish Network or Organizers(instead, Organizers participate directly in the upside alongside investors in each Fish School)
 * Adminstrative fees are paid pro-rata by all investors
+* Ability to opt-in to Liquidity Premium for optional early liquidity
 * Gas fees only for on-chain transactions (minimal on Base L2)
 
 #### 3.4 Key Differentiators for Fish Schools
