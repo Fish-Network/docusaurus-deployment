@@ -541,7 +541,7 @@ Liquidity Premium rates may be adjusted over time based on network conditions, a
 In addition to the Liquidity Premium, Fish Network reserves the right to apply **Liquidity Haircuts** under specific circumstances.
 
 **Definition:**\
-A Liquidity Haircut is a **one-time allocation of capital (anticipated range: 5%–20%)** from Fish Schools to the FishLP Contract to reinforce shared liquidity.
+A Liquidity Haircut is a **non-refundable one-time allocation of capital (anticipated range: 5%–20%)** from Fish Schools to the FishLP Contract to reinforce shared liquidity.
 
 **Potential Triggers:**
 
