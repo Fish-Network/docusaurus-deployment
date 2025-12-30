@@ -1,4 +1,4 @@
-NOMINEE RIDER (SAFE EDITION)
+**NOMINEE RIDER (SAFE EDITION)**
 This Rider is attached to and made part of the  SAFE (the “SAFE”) dated _____________ by and between _________________________ (“Company”) and _________________________, a ________ LLC (the “Nominee”).
 
 1. Purpose and Beneficial Ownership
