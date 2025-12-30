@@ -674,14 +674,14 @@ This structure has the following three benefits when compared to a member-manage
 * Must have 99 members or less
   * **Fish Network:** Fish School smart contracts are limited to a 99 member maximum.
 
-Investment Limits (Non-Accredited): Varies State by State in the USA.
+Investment and Member Limits(Non-Accredited is allowed): Varies State by State in the USA.
 
 **6.2.2: Regulation Crowdfunding (Reg CF):**
 
 A Fish Shoal is a **non-capital pooling** investment club that allow issuers to raise capital directly from non-accredited investors under SEC Regulation Crowdfunding, enabling:
 
-* $1.07 million maximum per 12-month period per Fish School(not subject to audit)
-* $5 million maximum per 12-month period per Fish School(subject to audit)
+* $1.07 million maximum per 12-month period per Issuer(not subject to audit)
+* $5 million maximum per 12-month period per Issuer(subject to audit)
 * Accredited investors have no investment limits
 * Form C filing with SEC before offering begins
 * Ongoing reporting requirements (annual financials, material changes)
