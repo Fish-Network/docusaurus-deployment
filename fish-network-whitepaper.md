@@ -175,7 +175,7 @@ A Fish School is a community-driven investment club structured as a Series LLC, 
 
 **Funding Phase:**
 
-* Fish School Organizers undergo KYC/KYB through Coinbase or Kraken infrastructure
+* Fish School Organizers undergo KYC/KYB through trusted 3rd party gateway
 * Capital contributions are made in USDC
 * Funds flow to qualified custody (Coinbase Prime/Kraken) for security
 * Smart contracts on Base L2 manage escrow and routing
