@@ -661,7 +661,7 @@ This structure has the following three benefits when compared to a member-manage
 
 **6.2.1:** **Investment Clubs**
 
-&#x20;Clubs are generally unregulated by the SEC as long as they maintain the below characteristics throughout the lifecycle of operation.
+&#x20;Fish Schools are Investment Clubs. They are generally unregulated by the SEC as long as they maintain the below characteristics throughout the lifecycle of operation.
 
 * No Passive Members
   * **Fish Network:** All members must vote over both governance and investment decisions or they risk involuntary termination and/or reputation penalties
