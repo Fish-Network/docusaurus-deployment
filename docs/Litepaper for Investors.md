@@ -1,5 +1,3 @@
----
-
 # Fish Network - A Paradigm Shift For Retail Investors
 
 ## **The Billion Dollar Small Team Era**
