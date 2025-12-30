@@ -661,7 +661,7 @@ This structure has the following three benefits when compared to a member-manage
 
 **6.2.1:** **Investment Clubs**
 
-&#x20;Fish Schools are Investment Clubs. They are generally unregulated by the SEC as long as they maintain the below characteristics throughout the lifecycle of operation.
+&#x20;Fish Schools are **capital-pooling** Investment Clubs. They are generally unregulated by the SEC as long as they maintain the below characteristics throughout the lifecycle of operation.
 
 * No Passive Members
   * **Fish Network:** All members must vote over both governance and investment decisions or they risk involuntary termination and/or reputation penalties
@@ -678,7 +678,7 @@ Investment Limits (Non-Accredited): Varies State by State in the USA.
 
 **6.2.2: Regulation Crowdfunding (Reg CF):**
 
-Fish Shoals enable issuers to raise capital directly from non-accredited investors under SEC Regulation Crowdfunding, enabling:
+A Fish Shoal is a **non-capital pooling** investment club that allow issuers to raise capital directly from non-accredited investors under SEC Regulation Crowdfunding, enabling:
 
 * $1.07 million maximum per 12-month period per Fish School(not subject to audit)
 * $5 million maximum per 12-month period per Fish School(subject to audit)
