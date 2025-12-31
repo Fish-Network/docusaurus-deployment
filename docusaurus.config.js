@@ -7,6 +7,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
+
 const config = {
   title: 'Fish Network',
   tagline: 'Driving the Billion Dollar Small Team Era',
@@ -66,10 +67,21 @@ const config = {
   ],
 
   plugins: [
-    'docusaurus-plugin-llms', 
-    {
-      ignoreFiles: ['iron-key/*']
-    }
+    [
+      'docusaurus-plugin-llms', 
+      {
+        docsDir: 'docs',
+        ignoreFiles: ['**/iron-key/**'],
+        title: "Fish Network documentation",
+        description: "Reference documentation for Fish Network platform and business model.",
+        pathTransformation: {
+          // Paths to ignore when constructing URLs (will be removed if found)
+          ignorePaths: ['docs']
+          // Paths to add when constructing URLs (will be prepended if not already present)
+          //addPaths: [''],
+        },
+      }
+    ]
   ],
 
   themeConfig:
