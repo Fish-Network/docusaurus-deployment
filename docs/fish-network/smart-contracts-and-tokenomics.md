@@ -26,5 +26,5 @@ Withdrawals are gated by **Epochs** (time windows). This ensures stability of ca
 
     ​
 
-    <figure><img src=".gitbook/assets/formula.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="/img/gitbook/formula.png" alt=""><figcaption></figcaption></figure>
 * **Governance Use**: Simple majority voting in MVP; quadratic voting enabled in Phase 2.

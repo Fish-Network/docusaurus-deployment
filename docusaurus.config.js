@@ -45,6 +45,10 @@ const config = {
           sidebarPath: './sidebars.js',
           editUrl:
             'https://github.com/Fish-Network/docs/tree/main/',
+          exclude: [
+            '**/iron-key/**',
+            '**/archived/**',
+          ],
         },
         blog: false, // Disable the blog plugin
         theme: {
@@ -87,35 +91,23 @@ const config = {
             items: [
               {
                 label: 'Introduction to Investment Clubs',
-                to: '/',
+                to: '/fish-network/introduction-to-investment-clubs',
               },
               {
                 label: 'Fish Network Overview',
-                to: '/intro',
+                to: '/fish-network/investor-litepaper',
               },
               {
                 label: 'Whitepaper',
-                to: '/fish-network-whitepaper',
-              },
-              {
-                label: 'Fish School Advantage',
-                to: '/the-fish-school-advantage',
-              },
-              {
-                label: 'Liquidity, Optionality, Diversification',
-                to: '/liquidity-optionality-diversification',
-              },
-              {
-                label: 'Fish Points',
-                to: '/fish-points-the-social-layer-of-capital',
+                to: '/fish-network/fish-network-whitepaper',
               },
               {
                 label: 'Smart Contracts & Tokenomics',
-                to: '/smart-contracts-and-tokenomics',
+                to: '/fish-network/smart-contracts-and-tokenomics',
               },
               {
                 label: 'System Architecture & Patent',
-                to: '/system-and-method-for-blockchain-based-community-investment-pools',
+                to: '/fish-network/system-and-method-for-blockchain-based-community-investment-pools',
               },
             ],
           },

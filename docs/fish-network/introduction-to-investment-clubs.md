@@ -104,7 +104,7 @@ Iron Key’s community brings together five core personas:<br>
 * Advisors & Mentors: Help the next generation of founders and investors succeed.
 * Founders: Get real-time feedback and advisory on your pitch, GTM strategy, and fundraising.<br>
 
-<figure><img src=".gitbook/assets/Screenshot - 2025-12-16T212241.514.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Screenshot - 2025-12-16T212241.514.png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Conclusion
 

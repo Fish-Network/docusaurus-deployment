@@ -41,7 +41,7 @@ Together these components enable transparent, rapid, thesis-driven community inv
 
 The platform comprises an **Investor Interface Layer**, a **Permissioned Smart-Contract Network**, **Compliance and Attestation Gateways**, **Custody/Banking Interfaces**, and optional **Oracles and AI Interaction Modules**.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-12-10 at 12.07.24 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Screenshot 2025-12-10 at 12.07.24 PM.png" alt=""><figcaption></figcaption></figure>
 
 In one embodiment, the platform operates across vertical-specific Fish Schools (e.g., Web3/AI venture, life sciences venture, real estate, or other assets) while maintaining a consistent compliance-gated and reputation-weighted governance core, as shown in FIG. 3.
 
@@ -98,7 +98,7 @@ In some embodiments, the system automatically allocates a predefined treasury or
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2025-12-10 at 12.09.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Screenshot 2025-12-10 at 12.09.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 Referring to FIG. 1, after verification (Step 0) an investor’s capital enters the Fish School (Step 1), a preset fraction is allocated to a treasury or escrow reserve as voted or predefined (e.g., \~3%), and the remaining portion is routed into an escrow/custody or Fish School bank account. The system supports multiple compliant rail providers (non-limiting examples include regulated custodians or banking/KYC partners), and may charge a programmatic transaction fee. Upon investment approval, the system triggers agreement execution (Step 2/3) and disburses capital to the company via bank wire or on-chain transfer (Step 4).
 
@@ -153,7 +153,7 @@ This structure simplifies administrative execution while preserving investor vot
 
 Following successful governance approval, the system may deploy capital through one of multiple SPV pathways.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-12-10 at 12.10.29 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Screenshot 2025-12-10 at 12.10.29 PM.png" alt=""><figcaption></figcaption></figure>
 
 Referring to FIG. 2, in **Scenario 1** a Fish School initiates an SPV after an internal proposal and on-chain vote, then completes off-chain legal setup and capital mobilization, executes formal agreements, disburses investment, and continues on-chain governance over SPV rights. In **Scenario 2**, a follow-on SPV is triggered by external next-round deal flow; members vote on whether to exercise pro-rata or increase exposure, and the system then executes a similar SPV setup and disbursement pipeline.
 
@@ -175,15 +175,15 @@ A consent transcript hash + signature + vote tx is stored for auditability.
 
 #### 9. Example Use Cases Across Startup Lifecycles and Ecosystems
 
-**9.1 B2C Startup Lifecycle Example**![](<.gitbook/assets/Screenshot 2025-12-10 at 12.13.34 PM.png>)
+**9.1 B2C Startup Lifecycle Example**![](</img/gitbook/Screenshot 2025-12-10 at 12.13.34 PM.png>)
 
-<figure><img src=".gitbook/assets/Screenshot 2025-12-10 at 12.12.40 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Screenshot 2025-12-10 at 12.12.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 Referring to FIG. 4, Fish Schools may originate investments at ideation stages, deploy milestone-gated tranches through successive votes, optionally form SPVs for coordinated follow-on rounds to support growth-stage funding by leveraging existing pro-rata rights.
 
 **9.2 Venture Ecosystem / B2B Example**
 
-<figure><img src=".gitbook/assets/Venture ecosystem b2b example.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Venture ecosystem b2b example.png" alt=""><figcaption></figcaption></figure>
 
 Referring to FIG. 5, Fish Schools may be created as cohorts or series within institutional or ecosystem partnerships (e.g., incubators, accelerators, universities), enabling multiple series to invest in different deals, coordinate pro-rata rights across cohorts, and form SPVs for consolidated deployments while preserving member-level voting and beneficial ownership.
 
