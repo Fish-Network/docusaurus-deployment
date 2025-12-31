@@ -23,7 +23,7 @@ Most investment clubs are member-driven, invite-only, and operated democraticall
 
 ### History of Web3 Community Driven Investing
 
-Since the early days of digital assets, investors have leaned on one-another to further their own understanding of this nascent, fast-evolving asset class. Furthermore, with the integration of AI, the rate of technology innovation has increased by orders of magnitude; making community driven investing and innovation even more attractive and potentially lucrative, to those with an entrepreneurial bug.<br>
+Since the early days of digital assets, investors have leaned on one-another to further their own understanding of this nascent, fast-evolving asset class. Furthermore, with the integration of AI, the rate of technology innovation has increased by orders of magnitude; making community driven investing and innovation even more attractive and potentially lucrative, to those with an entrepreneurial bug.
 
 Over the years, there have been many attempts at creating community driven investing organizations, with very few success stories. As a first mover in 2017-2018, MetaCartel4 set the gold standard for what a decentralized venture organization could look like, and also gave birth to the first(and only?) Fund of Funds focused on investment DAOs, Hydra Ventures5. I’d also be remiss not to mention the 2,800 lb gorillas in the room, OrangeDAO6, which raised $80M7 in 2022, and GCR8.<br>
 

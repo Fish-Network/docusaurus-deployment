@@ -177,7 +177,7 @@ A consent transcript hash + signature + vote tx is stored for auditability.
 
 **9.1 B2C Startup Lifecycle Example**
 
-![B2C Startup Lifecycle](/img/gitbook/Screenshot%202025-12-10%20at%2012.13.34%20PM.png)
+![B2C Startup Lifecycle](/img/gitbook/Screenshot%202025-12-10%20at%2012.13.34%E2%80%AFPM.png)
 
 <figure><img src="/img/gitbook/Screenshot 2025-12-10 at 12.12.40 PM.png" alt="" /><figcaption></figcaption></figure>
 
