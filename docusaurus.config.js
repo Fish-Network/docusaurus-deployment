@@ -13,16 +13,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://fish-network.github.io',
+  url: 'https://chonkcheto.github.io',
   // For GitHub Pages project site: https://<org>.github.io/<projectName>/
   // this should be '/<projectName>/'.
   // The hosting repo is Fish-Network/docs, so the baseUrl is '/docs/'.
-  baseUrl: '/docs/',
+  baseUrl: '/fish-network-docs-testing/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Fish-Network', // Usually your GitHub org/user name.
-  projectName: 'docs', // GitHub repo name used for Pages deployment.
+  organizationName: 'chonkcheto', // Usually your GitHub org/user name.
+  projectName: 'fish-network-docs-testing', // GitHub repo name used for Pages deployment.
 
   onBrokenLinks: 'warn',
 
@@ -63,6 +63,10 @@ const config = {
         },
       }),
     ],
+  ],
+
+  plugins: [
+    'docusaurus-plugin-llms'
   ],
 
   themeConfig:
