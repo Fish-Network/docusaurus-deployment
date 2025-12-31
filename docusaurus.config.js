@@ -78,7 +78,7 @@ const config = {
           // Paths to ignore when constructing URLs (will be removed if found)
           ignorePaths: ['docs'],
           // Paths to add when constructing URLs (will be prepended if not already present)
-          addPaths: ['fish-network'],
+          addPaths: ['fish-network-docs-testing', 'fish-network'],
         },
       }
     ]
