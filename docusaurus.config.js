@@ -76,9 +76,9 @@ const config = {
         description: "Reference documentation for Fish Network platform and business model.",
         pathTransformation: {
           // Paths to ignore when constructing URLs (will be removed if found)
-          ignorePaths: ['docs']
+          ignorePaths: ['docs'],
           // Paths to add when constructing URLs (will be prepended if not already present)
-          //addPaths: [''],
+          addPaths: ['fish-network'],
         },
       }
     ]
