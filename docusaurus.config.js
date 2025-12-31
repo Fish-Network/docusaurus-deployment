@@ -21,8 +21,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Fish-Network', // Usually your GitHub org/user name.
-  projectName: 'docs', // GitHub repo name used for Pages deployment.
+  organizationName: 'chonkcheto', // Usually your GitHub org/user name.
+  projectName: 'fish-network-docs-testing', // GitHub repo name used for Pages deployment.
 
   onBrokenLinks: 'warn',
 
