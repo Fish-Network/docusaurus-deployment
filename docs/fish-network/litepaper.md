@@ -13,7 +13,7 @@ AI-driven product teams and crypto protocols are positioned to capitalize on thi
 Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
 <img
-  src="./static/flywheel-2.png"
+  src="/flywheel-2.png"
   width="1075"
   height="974"
   alt="Fish Network Overview"
@@ -66,7 +66,7 @@ Small teams can achieve outsized outcomes when four layers align:
    * Potential for change in US accreditation requirements would streamline retail participation in private markets.
 
 <img
-  src="./static/flywheel-2.png"
+  src="/flywheel-2.png"
   width="1075"
   height="974"
   alt="Dashboard Preview"
@@ -224,7 +224,7 @@ The Fish Network flips the syndicate & crowdfunding model on its head. Instead o
 The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
 
 <img
-  src="./static/Generated%20Image%20September%2008%2C%202025%20-%202_18AM.png"
+  src="/Generated%20Image%20September%2008%2C%202025%20-%202_18AM.png"
   width="1075"
   height="974"
   alt="Fish Network"
