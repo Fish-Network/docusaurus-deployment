@@ -1220,7 +1220,7 @@ A world where:
 
 Whether you're an investor seeking access to high-quality ventures, a domain expert ready to launch your Fish School, or a founder looking for mission-aligned capital, Fish Network provides the infrastructure to participate in the future of venture capital.
 
-The water's fine. Let's swim together.
+The water's fine. Let's swim together. 
 
 ***
 
@@ -1331,6 +1331,7 @@ Document Version: 1.0
 Last Updated: December 24, 2025
 Contact: [legal@fishnetwork.co](mailto:legal@fishnetwork.co)
 Website: [www.fishnetwork.co](http://www.fishnetwork.co)
+Join Fish Network: [https://beta.fishnetwork.xyz](https://beta.fishnetwork.xyz)
 Documentation: [docs.fishnetwork.co](https://docs.fishnetwork.co)
 
 ***
