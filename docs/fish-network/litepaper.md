@@ -50,7 +50,7 @@ Small teams can achieve outsized outcomes when four layers align:
 
 ## **The Fish Network Solution**
 
-By leveraging best practices in [On-Chain Capital Allocation](https://allobook.gitcoin.co/), we enable investors to form thesis driven communities, and also enable communities to create turn-key investment vehicles. By leveraging a hybrid funding model, we allow the best startups to compete for immediate access to capital. Fish Network is built specifically for compliant capital formation and represents a set of tools for emerging managers to offer their investors a different set of tradeoffs between liquidity, optionality, and diversification.
+By leveraging best practices in [On-Chain Capital Allocation](https://allobook.gitcoin.co/), we enable emerging managers to form thesis driven communities, and enable communities to create turn-key investment vehicles. By leveraging a hybrid funding model combining crowdfunding, SPVs, and investment clubs, we allow the best startups to compete for immediate access to capital. Fish Network is built specifically for compliant capital formation and represents a set of tools for emerging managers to offer their investors a different set of tradeoffs between liquidity, optionality, and diversification.
 
 **Investment Clubs & Fish Schools:** Fish swim in Structure, Coordination, Direction.
 
