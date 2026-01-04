@@ -33,7 +33,7 @@ Imagine being able to build your community of aligned founders and investors on 
 Small teams can achieve outsized outcomes when four layers align:
 
 1. **Market Demand**
-   * $19.6B in crypto VC deals (2024) shows appetite for digitally-native investor solutions.
+   * Leading investment club platform Echo.xyz sold to Coinbase for $375M in October 2025.
    * The Base L2 ecosystem alone represents $10+ billion in USDC liquidity seeking productive deployment. Capturing even 1% of this market creates a $100 million platform.
 1. **Fast Network Formation**
    * On-chain entity formation + compliance tools enables distributed experts, operators, and backers to form instantly, without relying on legacy hiring pipelines.
