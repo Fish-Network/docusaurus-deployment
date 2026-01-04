@@ -85,7 +85,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 ### **🎣** Fish School Organizer (Emerging Manager / Solo GP)
 
 * **Who:** Vetted lead for a given school / thesis.
-* **Responsibilities:** Form & operate Series LLC, coordinate KYC/KYB, source & vet deals, run votes, interface with custody & compliance partners, coordinate distributions.
+* **Responsibilities:** Form & operate Series LLC, provide preliminary diligence on deals, run voting processes, interface with custody & compliance partners, coordinate profit distributions to investors.
 * **Incentives:** Front‑loaded administrative fee; potential performance‑aligned incentives where permitted (e.g., bounties from treasury / Schoal); reputation accrual.
 * **Requirements:** Diligence standards, ongoing reporting to Fish Network, adherence to investment‑club constraints.
 
@@ -100,7 +100,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **Who:** Individuals or entities joining a Fish School.
 * **Responsibilities:** Commit capital, participate in on‑chain voting, follow school governance.
 * **Incentives:** Fish Points (reputation), potential upside from selected deals, optionality to reallocate across schools, shorter lockups.
-* **Requirements:** KYC, agree to club docs; wallet + identity (e.g., cb.id / ENS).
+* **Requirements:** KYC: wallet + identity (e.g., cb.id / ENS), active participation.
 
 ### **🐠** Shoal Leader (VC or B2B Entity)
 
@@ -155,7 +155,7 @@ Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven i
 
 Investors overcollateralize with USDC to maintain liquidity optionality after initial results.
 
-* **50%** to FishLP Contract (USDC) to accrue Fish Points and interest to enable future shared liquidity for Fish Schools.
+* **50%** to accrue Fish Points and interest to enable future shared liquidity for Fish Schools.
 * **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
 * **10%** to school treasury for ops, insurance, admin fees, etc.
 
