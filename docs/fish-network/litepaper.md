@@ -201,7 +201,7 @@ The Fish Network is poised to unlock tremendous value for the individual investo
 
 ## Conclusion
 
-The Fish Network flips the syndicate & crowdfunding model on its head. Instead of chasing investors for each deal, when most of them drop out anyway, we introduce a new capital deployment model, where the capital has already been locked in smart contract escrow. Rather than using a traditional SPV, we introduce the concept of a Fish School, where any community can launch an investment club to better serve their constituents.
+The Fish Network flips the syndicate & crowdfunding model on its head. Instead of chasing investors for each deal, when most of them drop out anyway, we introduce a new capital deployment model, where the capital has already been locked in smart contract escrow. Rather than using a traditional SPV, we introduce the concept of a Fish School, where any community or business can launch an investment club to better align their investor constituents.
 
 The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
 
