@@ -190,7 +190,7 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 
 The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital. Once the retail equity crowdfunding market is captured, Fish Network can expand in the following avenues.
 
-**1) Reg A+.** ability to move up market into Reg A+ offerings above $5M.
+**1) Reg A+:** ability to move up market into Reg A+ offerings above $5M.
 
 **2) New Asset Classes:** Initially we are targeting the venture capital market; this model can be extended to any illiquid asset class(Alternatives including Art, Real Estate, etc) where investors may want liquidity optionality.
 
