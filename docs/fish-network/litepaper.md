@@ -192,7 +192,7 @@ The investment model for Fish Schools is inherently sector agnostic. Investment 
 
 ## **Market Growth Vectors**
 
-The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital. Once the retail equity crowdfunding market is captured, Fish Network can expand in the following avenues.
+The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital. Once the syndicate + equity crowdfunding market is captured, Fish Network can expand in the following avenues.
 
 **1) Reg A+:** ability to move up market into Reg A+ offerings above $5M.
 
