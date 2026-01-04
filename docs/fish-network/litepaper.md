@@ -153,7 +153,9 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven investment clubs ("Fish Schools") into AI‑enabled, tokenized micro‑funds with future shared liquidity. We introduce a minimum 1-year lockup structure for investors in "venture fund" Fish Schools, which is typically 7-10 years for investors in a "traditional" venture fund. This enables emerging managers to move at the speed of technology; raising and deploying funds fully on-chain, while giving investors optionality to re-allocate quickly.
 
-#### Option A -  Fish School Structure — "50/40/10 Split" (venture club)  *liquid VC vehicle available for non-US Residents only*
+#### Option A -  Fish School Structure — "50/40/10 Split" (venture club) 
+
+*liquid VC vehicle available for non-US Residents only*
 
 Investors overcollateralize with USDC to maintain liquidity optionality after initial allocations.
 
@@ -181,11 +183,11 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 ## Risks & Mitigations
 
 * **Regulatory clarity:** Risk: Viewed as unsophisticated by market participants(i.e. perceived as “another” crowdfunding platform).
-* **Mitigation** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
+*   **Mitigation** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
 * **Liquidity bootstrapping:** Risk: Initial Fish Schools raising sufficient capital
-* **Mitigation** target professional emerging managers with rigorous Organizer vetting.
+*   **Mitigation** target professional emerging managers with rigorous Organizer vetting.
 * **Manager quality:** Risk: Unsophisticated investors lead Fish Schools and Shoals, leading to investor churn
-* **Mitigation** Fish Network conducts rigorous Organizer vetting process; VC Shoal Leads recruit and QA organizers directly.
+*   **Mitigation** Fish Network conducts rigorous Organizer vetting process; VC Shoal Leads recruit and QA organizers directly.
 
 ## **Market Growth Vectors:**
 
