@@ -88,7 +88,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 * **Who:** Vetted lead for a given school / thesis.
 * **Responsibilities:** Form & operate individual Series LLC, provide preliminary diligence on deals, run voting processes, interface with custody & compliance partners, coordinate profit distributions to investors.
-* **Incentives:** Front‑loaded administrative fee; potential performance‑aligned incentives where permitted (e.g., bounties from treasury / Schoal); reputation accrual.
+* **Incentives:** Front‑loaded administrative fee; potential performance‑aligned incentives where permitted (e.g., bounties from treasury / Shoal); reputation and track record accrual.
 * **Requirements:** Diligence standards, ongoing reporting to Fish Network, adherence to investment‑club constraints.
 
 ### **🐟** The Fish Network (Platform / Protocol Layer)
