@@ -108,7 +108,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 * **Who:** Multi‑manager admin (a "Shoal Lead") coordinating multiple schools toward an outcome (e.g., sector, region, ecosystem).
 * **Responsibilities:** Form and operate Fish Schools, Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
-* **Incentives:** Shoal membership fees, brand/community expansion, ability to route capital to top‑performing Organizers, effcient LP relations.
+* **Incentives:** Shoal membership fees or broker-dealer fees, brand/community expansion, ability to route capital to top‑performing Organizers, effcient LP relations.
 
 ### _**Capital Structure:**_ Investors earn reputation points by committing capital into Fish Schools.
 
