@@ -182,12 +182,9 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 
 ## Risks & Mitigations
 
-* **Regulatory clarity:** Risk: Viewed as unsophisticated by market participants(i.e. perceived as “another” crowdfunding platform).
-*   **Mitigation** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
-* **Liquidity bootstrapping:** Risk: Initial Fish Schools raising sufficient capital
-*   **Mitigation** target professional emerging managers with rigorous Organizer vetting.
-* **Manager quality:** Risk: Unsophisticated investors lead Fish Schools and Shoals, leading to investor churn
-*   **Mitigation** Fish Network conducts rigorous Organizer vetting process; VC Shoal Leads recruit and QA organizers directly.
+* **Regulatory clarity:** Risk: Viewed as unsophisticated by market participants(i.e. perceived as “another” crowdfunding platform). Mitigation: Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
+* **Liquidity bootstrapping:** Risk: Initial Fish Schools raising sufficient capital. Mitigation: target professional emerging managers with rigorous Organizer vetting.
+* **Manager quality:** Risk: Unsophisticated investors lead Fish Schools and Shoals, leading to investor churn. Mitigation: Fish Network conducts rigorous Organizer vetting process; VC Shoal Leads recruit and QA organizers directly.
 
 ## **Market Growth Vectors:**
 
