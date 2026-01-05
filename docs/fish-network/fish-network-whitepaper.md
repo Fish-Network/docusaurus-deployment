@@ -195,7 +195,7 @@ A Fish School is a community-driven investment club structured as a Series LLC, 
 * Automated distribution to Fish School members proportional to ownership
 * Fish reputation points as rewards for successful picks, building member reputation
 
-**Future Use Case:** Rolling "funds" as investment clubs
+**Future Use Case:** Rolling "funds" as investment clubs; fundraising "seasons" or "campaigns"
 
 **Future Enhancement:** Quadratic voting and/or equity-weighted voting
 
