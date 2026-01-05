@@ -36,7 +36,7 @@ With over $10 billion in USDC on the Base network alone, Fish Network targets ju
 
 #### Vision
 
-Today, Fish Network provides the comprehensive framework for emerging managers to scale US based community-driven venture capital. Tomorrow, Fish Network has the opportunity to become the global operating system for democratized early-stage investing, designed for the average retail investor. By providing a different set of tradeoffs between **liquidity, optionality, and diversification**, Fish Network provides global access to US private markets using transparent and compliant on-chain systems, coupled with existing custody and identity verification solutions.
+Today, Fish Network provides the comprehensive framework for emerging managers to scale US based community-driven venture capital. Tomorrow, Fish Network will become the global operating system for democratized early-stage investing, designed for the average retail investor. By providing a different set of tradeoffs between **liquidity, optionality, and diversification**, Fish Network provides global access to US private markets using transparent and compliant on-chain systems, coupled with existing custody and identity verification solutions.
 
 ***
 
