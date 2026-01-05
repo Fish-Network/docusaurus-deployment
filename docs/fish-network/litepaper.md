@@ -194,7 +194,7 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 
 The investment model for Fish Schools is inherently sector and asset agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC or fiat to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms. Fish Network reduces operational complexity for emerging managers, all while driving down operating costs for compliant retail capital formation.
 
-Web2.5 SaaS model to reduce GTM complexity, which builds sustainable foundation for a three-sided marketplace of emerging managers, investors, and founders.
+Fish Network operates a Web2.5 SaaS model today to reduce GTM complexity, which builds a sustainable foundation for a three-sided marketplace of emerging managers, investors, and founders.
 
 ## Risks & Mitigations
 
