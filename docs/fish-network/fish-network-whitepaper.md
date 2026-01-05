@@ -79,7 +79,7 @@ Fish Network bridges this gap by creating scalable, transparent, and community-d
 
 #### 1.3 Total Addressable Market
 
-By 2030, the majority of illiquid assets will be tokenized and traded on-chain. A major trend is the "democratization" of private markets, which makes them more accessible to individual investors through new structures like evergreen and semi-liquid funds.
+By 2030, the majority of illiquid assets will be tokenized and traded on-chain. A major trend is the "democratization" of private markets, which makes these assets more accessible to individual investors through traditional structures like Reg CF Funding Portals and Alternative Trading Systems(ATS), and new structures like private market decentralized exchanges(DEXs) that enable peer-to-peer transactions between primary transactions(issuers and investors) and secondary(investor to investor) transactions.
 
 Alternative Investments Market:
 
