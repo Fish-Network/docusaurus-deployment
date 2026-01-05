@@ -192,13 +192,13 @@ The investment model for Fish Schools is inherently sector agnostic. Investment 
 
 ## **Market Growth Vectors**
 
-Once the syndicate + equity crowdfunding market is captured, Fish Network can expand in the following avenues.
+Once the syndicate + equity crowdfunding market is captured, Fish Network can expand in the following avenues(in order).
 
 **1) B2B White-label Partnerships:** ability to move up market into Reg A+ offerings above $5M while scaling distribution through partnerships.
 
-**2) New Asset Classes:** Initially we are targeting the venture capital market; this model can be extended to any illiquid asset class(Alternatives including Art, Real Estate, etc) where investors may want liquidity optionality.
+**2) Crypto Native Funds:** Fish Schools should have the ability to pursue more crypto native investment strategies, such as holding ETH instead of USDC in reserve. However, we have designed the Fish Network to be insulated from most crypto market risks.
 
-**3) Crypto Native Funds:** Fish Schools should have the ability to pursue more crypto native investment strategies, such as holding ETH instead of USDC in reserve. However, we have designed the Fish Network to be insulated from most crypto market risks.
+**3) New Asset Classes:** Initially we are targeting the venture capital market; this model can be extended to any illiquid asset class(Alternatives including Art, Real Estate, etc) where investors may want liquidity optionality.
 
 **4) Institutional Investor Adoption:** At scale, Fish Network unlocks a fund of funds model enabling investors to receive diversified exposure to all of the Fish Schools, with minimal crypto-native risk exposure. This could unlock large pools of capital comfortable with trusted qualified custodians.
 
