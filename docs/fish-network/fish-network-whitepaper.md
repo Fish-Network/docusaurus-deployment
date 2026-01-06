@@ -1087,7 +1087,7 @@ Must maintain Fish School Organizer quality to drive the investor and founder fl
   * Number of deals shared across Fish Schools
   * Number of deals co-invested by 2 or more Fish Schools
 
-#### 10.3 Strategic Partnerships
+#### 10.2 Strategic Partnerships
 
 Fish Network leverages strategic partnerships to amplify its market reach and distribution into new ecosystems. Furthermore, we also leverage partnerships to offer platform participants access to value-additive services.
 
@@ -1112,7 +1112,7 @@ Fish Network leverages strategic partnerships to amplify its market reach and di
 * Techstars: Accelerator integration
 * A16z Crypto: Potential Shoal Leader and validator
 
-#### 10.4 Success Metrics - What does winning look like?
+#### 10.3 Success Metrics - What does winning look like?
 
 Fish Network quantifies success through a combination of traditional investment metrics and user engagement analytics(quantified through Fish Points).
 
@@ -1145,7 +1145,7 @@ Fish Network quantifies success through a combination of traditional investment 
     * Number of successful liquidity events and $ amount of distributions
     * % of startups with a subsequent success signal (ex. Series A raised, revenue milestones achieved)
 
-#### 10.5 Competitive Landscape
+#### 10.4 Competitive Landscape
 
 Fish Network stands out by unlocking standing capital and distributed decision-making across fragmented markets, turning the weaknesses of high-fee crowdfunding, lead-dependent syndicates, and non-compliant DAOs into opportunities for seamless, community-led investing.
 
@@ -1226,29 +1226,29 @@ The water's fine. Let's swim together.
 
 ### Appendix A: Glossary
 
-Fish: Individual investor participating in Fish Schools
+**Base L2:** Coinbase's Ethereum Layer 2 blockchain optimized for consumer applications.
 
-Fish Network: The platform enabling creation and operation of Fish Schools and Shoals
+**Fish:** Individual investor participating in Fish Schools.
 
-Fish Points: Non-transferable reputation token earned through platform participation
+**FishLP Contract:** Open smart contract that holds USDC; facilitates the shared liquidity layer across Fish Schools.
 
-Fish School: Community-driven investment club structured as Series LLC to pool investments together
+**Fish Network:** The platform enabling creation and operation of Fish Schools and Shoals.
 
-Fish School Organizer: Vetted expert managing a specific Fish School
+**Fish Points:** Non-transferable reputation token earned through platform participation.
 
-Fish Shoal: Non-capital pooling investment club that facilitates a shared community aggregation layer
+**Fish School:** Community-driven investment club structured as a Series LLC to pool investments together.
 
-Shoal Leader: B2B entity overseeing multiple Fish Schools with shared services
+**Fish School Organizer:** Vetted expert managing a specific Fish School.
 
-FishLP Contract: Open smart contract that holds USDC; facilitates the shared liquidity layer across Fish Schools
+**Fish Shoal:** Non-capital pooling investment club that facilitates a shared community aggregation layer.
 
-Reg CF: SEC Regulation Crowdfunding allowing up to $5M raises from retail non-accredited investors
+**Reg CF:** SEC Regulation Crowdfunding allowing up to $5M raises from retail non-accredited investors.
 
-Series LLC: Legal structure where each "series" operates as separate entity with liability protection
+**Series LLC:** Legal structure where each "series" operates as a separate entity with liability protection.
 
-USDC: USD Coin, dollar-pegged stablecoin used for all platform transactions
+**Shoal Leader:** B2B entity overseeing multiple Fish Schools with shared services.
 
-Base L2: Coinbase's Ethereum Layer 2 blockchain optimized for consumer applications
+**USDC:** USD Coin, dollar-pegged stablecoin used for all platform transactions.
 
 ***
 
