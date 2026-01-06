@@ -180,8 +180,6 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 * **50%** to Fish School custodial account to be deployed into liquid assets
 * **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
 * **10%** to school treasury for ops, insurance, admin fees, etc.
-
-**Introducing Fish Shoals:** Instead of pooling capital upfront, Fish Shoals enable B2B entities and communities to pool knowledge, expertise, and information while investors invest individually. These investment clubs help unlock a new ecosystem of angel investors who value active governance over passive speculation and long term alignment over short-term liquidity.
   
 ### Fees & Liquidity
 
@@ -189,6 +187,9 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 * **Shared Liquidity:** Synthetic exposure to illiquid assets, collateralized by liquid crypto; cross‑school redemption support.
 
 *The **"50/40/10 Split"** Fish School structure is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.*
+
+
+**Introducing Fish Shoals:** Instead of pooling capital upfront, Fish Shoals enable B2B entities and communities to pool knowledge, expertise, and information while investors invest individually. These investment clubs help unlock a new ecosystem of angel investors who value active governance over passive speculation and long term alignment over short-term liquidity.
 
 ## Market Positioning
 
