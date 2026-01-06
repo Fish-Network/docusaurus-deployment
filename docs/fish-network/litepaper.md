@@ -140,11 +140,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 Fish Network charges $500 - $5,0000 monthly, on annual SaaS contracts.
 
-<img width="626" height="398" alt="image" src="https://github.com/user-attachments/assets/4a09fb83-49b9-4960-bd83-567af340a353" />
-
-@danish can you put a proper image here? 
-
-https://docs.google.com/document/d/1GbUm385nsEufjk9pV4nD1wt7QAsrZDSMzkhOTxd5LlU/edit?tab=t.0
+![Fish Netowrk Business Model](../../static/tier-pricing-fn.png)
 
 ## Tech Stack
 
