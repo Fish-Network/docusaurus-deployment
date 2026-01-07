@@ -624,8 +624,11 @@ The Nominee Delegate is obligated to:
 
 This structure simplifies administrative execution while preserving investor voting rights and accountability, distinguishing the system from traditional SPVs and CrowdSAFE-based structures that centralize control.
 
-![administrative execution](../gitbook/github-update.png)
-
+<img
+  src="/img/github-update.png"
+  alt="administrative execution"
+  width="800"
+/>
 
 Each Fish School operates as a Series LLC with the following characteristics:
 
