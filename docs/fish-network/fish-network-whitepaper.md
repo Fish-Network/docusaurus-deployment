@@ -609,7 +609,7 @@ Fish Network provides flexibility in structuring to accomodate a broad set of us
 Upon approval of an investment proposal, the platform executes the investment using a **nominee-based structure** that mimics a traditional CrowdSAFE instrument, but Instead gives investors actual equity with voting rights, amongst other protections upon a trigger event that warrants conversion into traditional equity shares(typically common stock).
 
 
-![Fish School Entity (Layer)](/img/gitbook/image%20%281%29.png)
+![Fish School Entity (Layer)](./.gitbook/assets/fish-school-entity.png)
 
 
 * **Nominee:** A Fish School LLC(typically the Master, but can be the individual Series) that holds legal title to the investment on behalf of all Fish Schools and their respective members.
@@ -624,9 +624,7 @@ The Nominee Delegate is obligated to:
 
 This structure simplifies administrative execution while preserving investor voting rights and accountability, distinguishing the system from traditional SPVs and CrowdSAFE-based structures that centralize control.
 
-<figure><img src="/img/gitbook/image%20(1).png" alt="" /><figcaption></figcaption></figure>
-
-![administrative execution](/img/gitbook/github-update.png)
+![administrative execution](./img/gitbook/github-update.png)
 
 
 Each Fish School operates as a Series LLC with the following characteristics:
