@@ -625,7 +625,7 @@ The Nominee Delegate is obligated to:
 This structure simplifies administrative execution while preserving investor voting rights and accountability, distinguishing the system from traditional SPVs and CrowdSAFE-based structures that centralize control.
 
 <img
-  src="/img/github-update.png"
+  src="/static/github-update.png"
   alt="administrative execution"
   width="800"
 />
