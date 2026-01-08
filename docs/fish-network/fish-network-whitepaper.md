@@ -424,8 +424,6 @@ Fish Agents are designed to increase active participation by reducing friction (
 
 ### 5. Future Economic System of Engineered Liquidity
 
-_*this model will be available to non-US residents only_
-
 #### 5.1 Liquidity in Private Markets
 
 Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market approach to introduce liquidity in traditional assets for retail investors. By sharing and borrowing liquidity across schools, Fish Network is able to introduce distinct tradeoffs, giving individual investors more control and choice over their investment decisions. Without Fish Network, these liquidity options or tradeoffs would otherwise be impossible or impractical at the individual asset or issuer level.
@@ -445,6 +443,8 @@ Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market 
 **Liquidity:** Shared liquidity layer enables early redemptions; minimum lockup period is 3 weeks up to 1 year(subject to fees/lockups per school).
 
 **Synthetic Exposure + Active Governance:** Tokenized investment club equity provides diversified exposure to US assets for international investors; may also provide the investor other protective covenants such as tag-along, voting, or information rights.
+
+_*Liquidity in Private Markets will be available to non-US residents only_
 
 #### 5.2 Capital Flow
 
