@@ -628,6 +628,8 @@ This structure simplifies administrative execution while preserving investor vot
   width="800"
 />
 
+![Administrative Execution)](../../static/github-update.png)
+
 Each Fish School operates as a Series LLC with the following characteristics:
 
 * Limited Liability: Protects members from personal liability beyond their investment
