@@ -684,11 +684,11 @@ A Fish Shoal is a **non-capital pooling** investment club that allow issuers to 
   * If annual income or net worth &lt; $124,000: Greater of $2,500 or 5% of lesser amount
   * If annual income and net worth ≥ $124,000: 10% of lesser amount, up to $124,000
 
-**6.2.3 :** **Regulation D:** Accredited Investor verification for SPVs only.
+**6.2.3 :** **Regulation D:**
 
 * Fish Schools are private funds exempt from SEC registration under section 3c1 of the Investment Act of 1940.
-*
-* **Fish Network:** On-chain verification through [Metalex](https://metalex-docs.vercel.app/cyberdeals/lexchex) infrastructure
+* Accredited Investor verification needed for SPVs only
+* On-chain investor ccreditation verification through [Metalex](https://metalex-docs.vercel.app/cyberdeals/lexchex) infrastructure
 
 ***
 
