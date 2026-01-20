@@ -1089,16 +1089,17 @@ Fish Network leverages strategic partnerships to amplify its market reach and di
 **Current Infrastructure Partners:**
 
 * Coinbase / Base: Blockchain, custody, identity, onramps
-* Kraken: Institutional custody and compliance services
+* SFOX: Institutional custody and compliance services
 * MetaLeX: Legal entity automation (BORGs/cyberCORPs)
 * Fairmint: Equity tokenization for portfolio companies
 
-**Existing Service Providers Partners:**
+**Existing Service Provider Partners:**
 
-* Law firms: Templated legal docs and compliance
+* PaperOS for entity formation and document templates and workflows
+* Law firms: Customized legal docs and compliance to enable cross border deals 
 * Audit + Tax firms: Portfolio valuation and tax services
-* Marketing agencies: Fish School growth and branding
-* Analytics platforms: Data and insights for organizers
+* Advisory firms + agencies: Fish School growth and branding, investor acquisition services
+* Analytics platforms: Data and insights for organizers and fish
 
 **Potential Distribution Partners:**
 
