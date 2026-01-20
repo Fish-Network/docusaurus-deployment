@@ -686,6 +686,8 @@ A Fish Shoal is a **non-capital pooling** investment club that allow issuers to 
 
 **6.2.3 :** **Regulation D:** Accredited Investor verification for SPVs only.
 
+* Fish Schools are private funds exempt from SEC registration under section 3c1 of the Investment Act of 1940.
+*
 * **Fish Network:** On-chain verification through [Metalex](https://metalex-docs.vercel.app/cyberdeals/lexchex) infrastructure
 
 ***
