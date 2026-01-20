@@ -1117,6 +1117,7 @@ Fish Network quantifies success through a combination of traditional investment 
 * Number of active Fish Schools
   * Number of Fish Schools actively raising capital
   * Number of Fish Schools actively deploying capital
+* % of Customers who launch a second fish school 
 * Average Fish School Longevity
   * Longevity defined as: # of months the fish school is raising + # of months deploying + # of months in portfolio support
 * Measuring Customer Lifetime Value:&#x20;
