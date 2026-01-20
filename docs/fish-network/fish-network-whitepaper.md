@@ -1084,7 +1084,7 @@ Must maintain Fish School Organizer quality to drive the investor and founder fl
 
 #### 10.2 Strategic Partnerships
 
-Fish Network leverages strategic partnerships to amplify its market reach and distribution into new ecosystems. Furthermore, we also leverage partnerships to offer platform participants access to value-additive services.
+Fish Network leverages strategic partnerships to amplify its market reach and distribution into new ecosystems. Furthermore, we also leverage partnerships to offer platform participants access to value-add services that streamline or enhance the investment process for collaborative investing.
 
 **Current Infrastructure Partners:**
 
