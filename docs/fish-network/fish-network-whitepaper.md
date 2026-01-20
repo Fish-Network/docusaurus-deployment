@@ -654,6 +654,8 @@ This structure has the following three benefits when compared to a member-manage
 
 #### 6.2 Securities Regulation Compliance
 
+Fish Schools may be regulated as an investment club or a private fund.
+
 **6.2.1:** **Investment Clubs**
 
 &#x20;Fish Schools are **capital-pooling** Investment Clubs. They are generally unregulated by the SEC as long as they maintain the below characteristics throughout the lifecycle of operation.
@@ -687,6 +689,8 @@ A Fish Shoal is a **non-capital pooling** investment club that allow issuers to 
 **6.2.3 :** **Regulation D:**
 
 * Fish Schools are private funds exempt from SEC registration under section 3c1 of the Investment Act of 1940.
+* Form D filed shortly after first sale
+* No General Solititation under Rule 506b
 
 ***
 
