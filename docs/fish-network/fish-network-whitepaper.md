@@ -32,7 +32,7 @@ Unlike traditional syndicate models where investors commit per deal, Fish School
 
 #### Market Opportunity
 
-With over $10 billion in USDC on the Base network alone, Fish Network targets just 1% market penetration to achieve $100 million in Total Value Locked. As the billion-dollar small team era accelerates, efficient capital formation infrastructure becomes critical for both founders and investors.
+With over $5 billion in USDC on the Base network alone, Fish Network targets just 1% market penetration to achieve $100 million in Total Value Locked. As the billion-dollar small team era accelerates, efficient capital formation infrastructure becomes critical for both founders and investors.
 
 #### Vision
 
