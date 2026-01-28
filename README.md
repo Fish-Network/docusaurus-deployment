@@ -77,7 +77,7 @@ To contribute to the documentation:
 
 ## 🔗 Links
 
-- **Main Repository:** [Fish-Network/gitbook_sync](https://github.com/Fish-Network/gitbook_sync)
+- **Main Repository:** [Fish-Network/docs](https://github.com/Fish-Network/docs)
 - **Website:** [fishnetwork.co](https://fishnetwork.co)
 - **Documentation:** This site
 
