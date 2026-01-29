@@ -32,11 +32,6 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'fish-network/iron-key-club-PoC',
-      label: 'Iron Key Club PoC',
-    },
-    {
-      type: 'doc',
       id: 'fish-network/liquidity-optionality-diversification',
       label: 'Liquidity, Optionality & Diversification',
     },

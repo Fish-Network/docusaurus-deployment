@@ -58,7 +58,13 @@ const config = {
             '**/safe-nominee-delegate-rider.md',
           ],
         },
-        blog: false, // Disable the blog plugin
+        blog: {
+          showReadingTime: true,
+          blogTitle: 'Blog',
+          blogDescription: 'Fish Network marketing and insights',
+          blogSidebarTitle: 'All Posts',
+          blogSidebarCount: 'ALL',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -98,6 +104,11 @@ const config = {
             label: 'Documentation',
           },
           {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/fish-network/docs',
             label: 'GitHub',
             position: 'right',
@@ -111,24 +122,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Introduction to Investment Clubs',
-                to: '/fish-network/introduction-to-investment-clubs',
-              },
-              {
                 label: 'Litepaper',
-                to: '/fish-network/litepaper',
+                to: '/',
               },
               {
                 label: 'Whitepaper',
                 to: '/fish-network/fish-network-whitepaper',
               },
               {
-                label: 'Smart Contracts & Tokenomics',
-                to: '/fish-network/smart-contracts-and-tokenomics',
-              },
-              {
-                label: 'System Architecture & Patent',
-                to: '/fish-network/system-and-method-for-blockchain-based-community-investment-pools',
+                label: 'Introduction to Investment Clubs',
+                to: '/fish-network/intro-to-fish-network-clubs',
               },
             ],
           },
