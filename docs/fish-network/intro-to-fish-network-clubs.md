@@ -1,5 +1,4 @@
 ---
-slug: /
 title: Introduction to Investment Clubs
 ---
 
