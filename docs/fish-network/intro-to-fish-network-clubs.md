@@ -6,7 +6,7 @@ title: Introduction to Investment Clubs
 
 Investment Clubs are groups of people who come together to pool capital, share ideas, and invest collaboratively across various asset classes. Investment clubs provide a simple, cost effective vehicle for investor communities and new fund managers to build and activate networks.
 
-Unknown to many average investors, Investment Clubs have existed for centuries(https://en.wikipedia.org/wiki/Investment_club). The most popular investment club that most people will recognize is Jim Cramer on CNBC. However, investment clubs have largely been untapped as a reliable capital formation tool in the 21st Century, due to the following two reasons.
+Unknown to many average investors, Investment Clubs have existed for centuries ([Wikipedia](https://en.wikipedia.org/wiki/Investment_club)). The most popular investment club that most people will recognize is Jim Cramer on CNBC. However, investment clubs have largely been untapped as a reliable capital formation tool in the 21st Century, due to the following two reasons.
 
 1) Lack of proper incentives; cannot charge any fees in the US except for adminstrative expenses
 2) No standard operational approach or back office provider
