@@ -163,6 +163,14 @@ Capital coordination systems will replace the organizational machinery of invest
 The defining asset class will not be tokens or equities alone, but coordinated intelligence operating through programmable financial infrastructure.
 
 
+**Diligence Through Collaboration**
+
+explain how investors do not have time to do enough good diligence. Diligence costs lots of time, few are qualified to do it, and good DD is hard to come by. Most investors simply rely on the due diligence of other investors. In fish network, investors pool diligence costs by distributing them across the Fish School & Shoal. Investors can contribute to diligence to earn reputation points through the Fish School, or potentially receive cash compensation in exchange, through the Fish Shoal.
+
+In practical terms, Due Diligence(DD) is not easy to monetize, which is why it is a ripe target for disruption through a shared, AI-networked, community-driven approach.
+
+
+
 
 multi-manager approach in hedge funds
 
@@ -184,6 +192,7 @@ explain how this enhances investor experiences through more diversification, mor
 the Cost per deal of an SPV relative to the cost of a fish school
 
 mitigate market timing risk by dollar cost averaging into private markets over a defined period of time; this reduces idiosynratic risk.
+
 
 more than 1 deal in a fish school
 
