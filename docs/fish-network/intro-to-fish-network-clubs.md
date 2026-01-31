@@ -87,7 +87,7 @@ By enabling Dollar Cost Averaging(DCA) built into our Fish Network platform, we 
 
 **Service DAO Principles:** Modularized roles, transparent governance, and cash flowing verticals integrated into the community to provide unmatched support for founders.
 
-**Community-first:** A decentralized LLC where every member can build an investment track record, find a co-founder, and help shape the Web3 / AI startup ecosystem.
+**Community-first:** A decentralized LLC where every member can build an investment track record, build a lean team as an emerging manager, and help shape the Web3 / AI startup ecosystem.
 
 **Web3-Native:** On-chain infrastructure for transparency, speed, lower operational cost, and global accessibility.
 
@@ -97,4 +97,4 @@ By enabling Dollar Cost Averaging(DCA) built into our Fish Network platform, we 
 
 ---
 
-*For more information about Fish Network and how to participate, visit our documentation or contact the team.*
+*For more information about Fish Network and how to participate, visit our documentation or contact the team at fish@fishnetwork.co.*
