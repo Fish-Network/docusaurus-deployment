@@ -164,6 +164,8 @@ The defining asset class will not be tokens or equities alone, but coordinated i
 
 
 
+multi-manager approach in hedge funds
+
 2) **Diversification**
 
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/514a2fa2-8644-4e4f-840e-b8d170662f5b" />
