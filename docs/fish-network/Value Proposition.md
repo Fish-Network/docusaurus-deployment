@@ -195,11 +195,15 @@ explain how this enhances investor experiences through more diversification, mor
 
 explain how top VCs could leverage Fish Network as a way to deploy capital in a more efficient, collaborative, and transparent way.
 
-2) **Diversification**
+2) **Diversification & Cost**
+
+make the argument for how you cannot get diversified exposure to private markets as a retail investors. The only option is to write a $5k - $10k check into a syndicate, but the average investor only has that much to deploy PER YEAR.  there is no way to get sufficient diversification, so most average investors leave private markets out of their portfolio entirely.
 
    more than 1 deal in a fish school. explain how the pricing model of fish network scales better than paying per deal for an SPV.
 
    cross reference the cost of traditional SPVs over time relative to the Fish Network 3 tier SaaS model.
+
+   Fish Schools act as "micro portfolios" with exposure to 3-10 deals. This incentives investors to be active and engaged, without bearing the entire burden of diligence upfront, and sheparding the company to exit down the road.
 
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/514a2fa2-8644-4e4f-840e-b8d170662f5b" />
 
