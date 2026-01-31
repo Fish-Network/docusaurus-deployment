@@ -203,6 +203,28 @@ the Cost per deal of an SPV relative to the cost of a fish school
 
 mitigate market timing risk by dollar cost averaging into private markets over a defined period of time; this reduces idiosynratic risk.
 
+3) **Optionality**
+
+investors today have the choice whether to invest directly or trust a blind pool fund. 
+
+**Blind Pool Fund**
+This typically informs trusting the General Partner, and hoping that they make good decisions with your money.
+
+However, in the fish school model, rather than relying on 1-2 General Partners, investors are hoping that everyone in the Fish School makes good decisions, a majority of the time. This approach provides a distinct **third** option for investors. 
+
+Pros: Investors trade money for time. They are passive and do not want to be involved, they just want to see returns.
+
+Cons: Investors Have less control; are subject to the whims of the Fund Manager; management fees and carried interest typically favor the fund manager, and can be significant.
+
+
+**Investing Direct**
+
+Instead of having to do your own due diligence on all of your investment individually when investing directly, you can tap into the Fish Network to share the responsibility with other qualified investors.
+
+Pros: Live and die by your own sword. Own the outcome enitrely; no fees to middlemen like syndicate leads
+
+Cons: Diligence Time and Opportunity Cost do not scale; you are trading your peace of mind and time in exchange for total control. Do you really need total control over every one of your investments? That doesnt scale. Or would you rather someone with more domain experience in that Company's sector to take the lead, and actively help the founder on behalf of the Fish School?
+
 
 more than 1 deal in a fish school
 
