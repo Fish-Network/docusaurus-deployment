@@ -235,7 +235,7 @@ Cons: Diligence Time and Opportunity Cost do not scale; you are trading your pea
 
 Introduce the Concept of a Fish School.
 
-Capital is pooled up front, fees are lower, more transparency, more control for investors.
+Capital is pooled up front, fees are lower, more transparency, more control for investors. investors have some decision control over investments via voting process, and can influence direction in medium term through active participation.
 
 share the diligence, split the risk, keep the carry in your pocket.
 
