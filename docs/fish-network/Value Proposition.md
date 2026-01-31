@@ -6,7 +6,7 @@
 
 * How Fish Network enables collaborative investing.
 * How Fish Schools enable diversification techniques for average investors while lowering operating costs.
-* How Fish Schools expands the total addressable market for angel investors and emerging managers.
+* How Fish Schools expands the total addressable market for angel investors and emerging managers(out of scope)
 * How optionality strengthens investor confidence.
 
 
@@ -161,3 +161,15 @@ Capital coordination systems will replace the organizational machinery of invest
 ● Collaboration becomes capital
 
 The defining asset class will not be tokens or equities alone, but coordinated intelligence operating through programmable financial infrastructure.
+
+
+
+2) **Diversification**
+
+<img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/514a2fa2-8644-4e4f-840e-b8d170662f5b" />
+
+the Cost per deal of an SPV relative to the cost of a fish school
+
+
+
+
