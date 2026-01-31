@@ -175,6 +175,8 @@ In practical terms, Due Diligence(DD) is not easy to monetize, which is why it i
 
 2-3 sentences on the multi-manager approach and what it is, data on how multi-manager hedge funds have raised lots of capital over the past few years. Explain how its growing fast and has been validated in hedge fund world. Why do we expect this trend to continue in VC/private equity? Typically, top performers within large VC machines reach a ceiling and have no choice but to leave, raise their own capital, and launch their own funds.
 
+uncorrelated returns, and risk segregation, across distinct portfolio managers creates attractive diversification opportunities for investors
+
  This enables VCs to diversify their human bias risk by enabling solo-GPs to manage distinct P&Ls, rather than vaguely being tracked through intuition of the Managing Partner. This also enables VCs to retain talent easier, by rewarding their top performers with more capital to deploy.
 
  Explain how fish network is applying this concept to private markets, and how top VCs can use fish network to better manage and evaluate investment talent, using Fish Schools and allocating capital to these schools "top down".
