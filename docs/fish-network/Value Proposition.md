@@ -198,13 +198,15 @@ explain how top VCs could leverage Fish Network as a way to deploy capital in a 
 
 2) **Diversification & Cost**
 
+explain game theory optimal venture capital, and how You need 100+ deals to be sufficiently diversified(@danish validate this, check Rafe Furst content/book). as an angel investor, there is no feasbile way to achieve these levels of diversification. Conversely, as an institutional investor in a Fund of Funds, this becomes possible, however, it comes with multiple layers of fees. During this article, we will explore the "middle ground" between these two extremes, examining the distinct tradeoffs being made by the astute investor in private markets.
+
 make the argument for how you cannot get diversified exposure to private markets as a retail investors. The only option is to write a $5k - $10k check into a syndicate, but the average investor only has that much to deploy PER YEAR.  there is no way to get sufficient diversification, so most average investors leave private markets out of their portfolio entirely.
 
    more than 1 deal in a fish school. explain how the pricing model of fish network scales better than paying per deal for an SPV.
 
    cross reference the cost of traditional SPVs over time relative to the Fish Network 3 tier SaaS model.
 
-   Fish Schools act as "micro portfolios" with exposure to 3-10 deals. This incentives investors to be active and engaged, without bearing the entire burden of diligence upfront, and the responsibility of sheparding the company to exit down the road.
+   Fish Schools act as "micro portfolios" with exposure to 3-10 deals. This incentives investors to be active and engaged, without bearing the entire burden of diligence upfront, and the responsibility of sheparding the company to exit down the road. This enables a more scalable mechanism for investors to recieve sufficient diversification in private markets.
 
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/514a2fa2-8644-4e4f-840e-b8d170662f5b" />
 
@@ -239,6 +241,8 @@ Introduce the Concept of a Fish School.
 Capital is pooled up front, fees are lower, more transparency, more control for investors. investors have some decision control over investments via voting process, and can influence direction in medium term through active participation.
 
 share the diligence, split the risk, keep the carry in your pocket.
+
+   Fish Schools act as "micro portfolios" with exposure to 3-10 deals. This incentivizes investors to be active and engaged, without bearing the entire burden of diligence upfront, and the responsibility of sheparding the company to exit down the road.
 
 
  Fish Network enables the individual solo-GP to scale, without being bogged down in ops, diligence, or compliance.
