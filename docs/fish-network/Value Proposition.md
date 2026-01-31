@@ -229,3 +229,9 @@ Pros: Live and die by your own sword. Own the outcome enitrely; no fees to middl
 
 Cons: Diligence Time and Opportunity Cost do not scale; you are trading your peace of mind and time in exchange for total control. Do you really need total control over every one of your investments? That doesnt scale. Or would you rather someone with more domain experience in that Company's sector to take the lead, and actively help the founder on behalf of the Fish School?
 
+Introduce the Concept of a Fish School.
+
+Capital is pooled up front, fees are lower, more transparency, more control for investors.
+
+share the diligence, split the risk, keep the carry in your pocket.
+
