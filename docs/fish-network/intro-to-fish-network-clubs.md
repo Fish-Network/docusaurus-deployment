@@ -65,11 +65,11 @@ Besides a small handful of standouts, the Venture DAO space has largely suffered
 The rate of technology innovation has increased by orders of magnitude; making community driven investing more attractive, and easier to accomplish. In 2025, there are various tailwinds that support the investment club narrative, including:
 
 - **US crypto regulation outlook** appears extremely favorable and innovation-friendly
-  - Potential for looming change in accreditation laws to streamline retail participation in private markets
+  - Potential for looming change in accreditation laws helps streamline retail participation in private markets
 - **AGI (Artificial General Intelligence)** is already here to help solve voter apathy and coordination issues by creating frictionless and engaging participation avenues that integrate with crypto rails
   - As web3 and AI technologies begin to work together, investing communities and founders can begin to realize emergent value that is greater than the sum of the individual parts
   - Investment clubs can be fully or partially managed by AGI itself; a notable example is ai16z
-- **Real World Assets (RWA)** - As more exotic traditional assets start to move on chain, this will create a new market for investment clubs to thrive in other asset classes beyond startup investing
+- **Real World Assets (RWA)** As more exotic traditional assets start to move on chain, this will create a new market for investment clubs to thrive in other asset classes beyond startup investing
 
 ## Fish Network's Investment Club Model
 
@@ -81,7 +81,7 @@ Our investor ecosystem structure fosters a transparent, community-driven model t
 > 
 > **- Christopher Dixon, General Partner at a16z**
 
-By enabling Dollar Cost Averaging(DCA) built into our Fish Network platform, we enable retail investors in private markets with access to tools and techniques previously reserved and gated for sophisicated investors only.
+By enabling Dollar Cost Averaging(DCA) built into our Fish Network platform, we enable retail investors in private markets to pool capital together to achieve sufficient diversification, share risk, and split the upside. We provide a new framework for early stage investing; one that invites collaboration over gatekeeping, active participation over passive speculation, and rewards long-term alignment over short-term liquidity.
 
 ### Key Features
 
