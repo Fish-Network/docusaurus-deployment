@@ -46,9 +46,9 @@ Investment clubs are hard to set up, legally ambiguous, and built with either le
 
 ## History of Web3 Community Driven Investing
 
-Since the early days of digital assets, investors have leaned on one-another to further their own understanding of this nascent, fast-evolving asset class. Furthermore, with the integration of AI, the rate of technology innovation has increased by orders of magnitude; making community driven investing and innovation even more attractive and potentially lucrative, to those with an entrepreneurial bug.
+Since the early days of digital assets, investors have leaned on one-another to further their own understanding of this nascent, fast-evolving asset class.
 
-Over the years, there have been many attempts at creating community driven investing organizations, with very few success stories. As a first mover in 2017-2018, MetaCartel set the gold standard for what a decentralized venture organization could look like, and also gave birth to the first(and only?) Fund of Funds focused on investment DAOs, Hydra Ventures. Notable examples include OrangeDAO, which raised $80M in 2022, and GCR.
+Over the years, there have been many attempts at creating community driven investing organizations, with very few success stories. As a first mover in 2017-2018, MetaCartel set the gold standard for what a decentralized venture organization could look like, and also gave birth to the first Fund of Funds focused on investment DAOs, Hydra Ventures. In 2021, Syndicate.io pioneered on-chain infrastructure for investment clubs, only to deprecate this product(https://syndicateio.gitbook.io/en) in 2023.
 
 ### Why Most Venture DAOs Failed
 
@@ -62,7 +62,7 @@ Besides a small handful of standouts, the Venture DAO space has largely suffered
 
 ## Future of Community Driven Investing
 
-However, in 2025, there are various tailwinds that will support the investment club narrative, including:
+The rate of technology innovation has increased by orders of magnitude; making community driven investing more attractive, and easier to accomplish. In 2025, there are various tailwinds that support the investment club narrative, including:
 
 - **US crypto regulation outlook** appears extremely favorable and innovation-friendly
   - Potential for looming change in accreditation laws to streamline retail participation in private markets
