@@ -171,7 +171,6 @@ In practical terms, Due Diligence(DD) is not easy to monetize, which is why it i
 
 
 
-
 **multi-manager approach in hedge funds**
 
 2-3 sentences on the multi-manager approach and what it is, data on how multi-manager hedge funds have raised lots of capital over the past few years. Explain how its growing fast and has been validated in hedge fund world. Why do we expect this trend to continue in VC/private equity? Typically, top performers within large VC machines reach a ceiling and have no choice but to leave, raise their own capital, and launch their own funds.
