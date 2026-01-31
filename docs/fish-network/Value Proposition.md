@@ -203,7 +203,7 @@ make the argument for how you cannot get diversified exposure to private markets
 
    cross reference the cost of traditional SPVs over time relative to the Fish Network 3 tier SaaS model.
 
-   Fish Schools act as "micro portfolios" with exposure to 3-10 deals. This incentives investors to be active and engaged, without bearing the entire burden of diligence upfront, and sheparding the company to exit down the road.
+   Fish Schools act as "micro portfolios" with exposure to 3-10 deals. This incentives investors to be active and engaged, without bearing the entire burden of diligence upfront, and the responsibility of sheparding the company to exit down the road.
 
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/514a2fa2-8644-4e4f-840e-b8d170662f5b" />
 
@@ -238,4 +238,7 @@ Introduce the Concept of a Fish School.
 Capital is pooled up front, fees are lower, more transparency, more control for investors.
 
 share the diligence, split the risk, keep the carry in your pocket.
+
+
+ Fish Network enables the individual solo-GP to scale, without being bogged down in ops, diligence, or compliance.
 
