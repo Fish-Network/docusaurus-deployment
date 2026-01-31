@@ -166,6 +166,17 @@ The defining asset class will not be tokens or equities alone, but coordinated i
 
 multi-manager approach in hedge funds
 
+chatGPT prompt:  
+
+inputs: https://www.morganstanley.com/im/en-us/individual-investor/insights/articles/how-multi-manager-platforms-find-strength-in-numbers.html
+
+explain how Fish Network can apply the best practices of multi-manager approaches(traditional used in hedge funds) and apply that concept to venture capital investing in private markets.
+
+explain how this enhances investor experiences through more diversification, more risk segregation(independent fish schools have their own P&L), and gives established VCs more optionality over who to put in junior investing roles. Ultimately enables VCs to make more data-driven decisions on human capital(which people in the firm should be managing capital at risk).
+
+
+
+
 2) **Diversification**
 
 <img width="1004" height="577" alt="image" src="https://github.com/user-attachments/assets/514a2fa2-8644-4e4f-840e-b8d170662f5b" />
