@@ -62,7 +62,7 @@ Besides a small handful of standouts, the Venture DAO space has largely suffered
 
 ## Future of Community Driven Investing
 
-The rate of technology innovation has increased by orders of magnitude; making community driven investing more attractive, and easier to accomplish. In 2025, there are various tailwinds that support the investment club narrative, including:
+The rate of technology innovation has increased by orders of magnitude, making community driven investing more attractive, and easier to accomplish. In 2025, there are various tailwinds that support the investment club narrative, including:
 
 - **US crypto regulation outlook** appears extremely favorable and innovation-friendly
   - Potential for looming change in accreditation laws helps streamline retail participation in private markets
