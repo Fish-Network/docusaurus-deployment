@@ -172,9 +172,18 @@ In practical terms, Due Diligence(DD) is not easy to monetize, which is why it i
 
 
 
-multi-manager approach in hedge funds
+**multi-manager approach in hedge funds**
 
-chatGPT prompt:  
+2-3 sentences on the multi-manager approach and what it is, data on how multi-manager hedge funds have raised lots of capital over the past few years. Explain how its growing fast and has been validated in hedge fund world. Why do we expect this trend to continue in VC/private equity? Typically, top performers within large VC machines reach a ceiling and have no choice but to leave, raise their own capital, and launch their own funds.
+
+ This enables VCs to diversify their human bias risk by enabling solo-GPs to manage distinct P&Ls, rather than vaguely being tracked through intuition of the Managing Partner. This also enables VCs to retain talent easier, by rewarding their top performers with more capital to deploy.
+
+ Explain how fish network is applying this concept to private markets, and how top VCs can use fish network to better manage and evaluate investment talent, using Fish Schools and allocating capital to these schools "top down".
+
+
+chatGPT prompts:  
+
+1)
 
 inputs: https://www.morganstanley.com/im/en-us/individual-investor/insights/articles/how-multi-manager-platforms-find-strength-in-numbers.html
 
@@ -182,8 +191,9 @@ explain how Fish Network can apply the best practices of multi-manager approache
 
 explain how this enhances investor experiences through more diversification, more risk segregation(independent fish schools have their own P&L), and gives established VCs more optionality over who to put in junior investing roles. Ultimately enables VCs to make more data-driven decisions on human capital(which people in the firm should be managing capital at risk).
 
+2)
 
-
+explain how top VCs could leverage Fish Network as a way to deploy capital in a more efficient, collaborative, and transparent way.
 
 2) **Diversification**
 
