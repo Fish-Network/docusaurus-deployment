@@ -170,6 +170,10 @@ The defining asset class will not be tokens or equities alone, but coordinated i
 
 the Cost per deal of an SPV relative to the cost of a fish school
 
+mitigate market timing risk by dollar cost averaging into private markets over a defined period of time; this reduces idiosynratic risk.
+
+more than 1 deal in a fish school
+
 
 
 
