@@ -32,7 +32,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: ''fish-network/liquidity-optionality'',
+      id: 'fish-network/liquidity-optionality',
       label: 'Optionality & Diversification',
     },
   ],
