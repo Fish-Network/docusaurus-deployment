@@ -5,7 +5,7 @@ authors: [fish-network]
 tags: [neo-funds, private-markets, infrastructure, compliance]
 ---
 
-Neo funds represent the next evolution in investment vehicles, applying the neobank playbook to private markets. Just as neobanks embedded compliance into software-native systems after the 2008 crisis, neo funds streamline retail access to venture capital, private equity, real estate, and private credit—without altering securities laws or accreditation barriers.
+Neo funds represent the next evolution in investment vehicles, applying the neobank playbook to private markets. Just as neobanks embedded compliance into software-native systems after the 2008 crisis, neo funds streamline retail access to venture capital, private equity, real estate, and private credit, without altering securities laws or accreditation barriers.
 
 <!-- truncate -->
 
@@ -17,7 +17,7 @@ Mercury exemplifies this model: by 2025, it served over 200,000 business custome
 
 ## Private Markets' Friction Trap
 
-Private markets, encompassing trillions in assets under management across VC, PE, real estate, and private credit, remain structurally inaccessible to most investors due to high minimum investments, manual accreditation processes, opaque reporting and governance, and fragmented compliance workflows—all running on largely unchanged 1990s infrastructure. This setup sidelines vast pools of retail capital even as public markets contract and demand for high-return alternatives surges.
+Private markets, encompassing trillions in assets under management across VC, PE, real estate, and private credit, remain structurally inaccessible to most investors due to high minimum investments, manual accreditation processes, opaque reporting and governance, and fragmented compliance workflows, all running on largely unchanged 1990s infrastructure. This setup sidelines vast pools of retail capital even as public markets contract and demand for high-return alternatives surges.
 
 ## What Are Neo Funds?
 
@@ -39,7 +39,7 @@ When implemented correctly, tokenization in neo funds serves as a restricted own
 
 ## Fish Network Powers the Shift
 
-Fish Network emerges as the critical infrastructure layer for neo funds, analogous to core banking platforms that enabled neobanks: it provides digital accreditation and KYC, jurisdiction-aware compliance logic, on-chain ownership representation with built-in transfer controls, and seamless synchronization with fund administrators. Importantly, Fish Network is not a fund, bank, exchange, or public marketplace—it is pure infrastructure designed to facilitate compliant, on-chain capital formation without shifting legal responsibilities or regulatory boundaries.
+Fish Network emerges as the critical infrastructure layer for neo funds, analogous to core banking platforms that enabled neobanks: it provides digital accreditation and KYC, jurisdiction-aware compliance logic, on-chain ownership representation with built-in transfer controls, and seamless synchronization with fund administrators. Importantly, Fish Network is not a fund, bank, exchange, or public marketplace, it is pure infrastructure designed to facilitate compliant, on-chain capital formation without shifting legal responsibilities or regulatory boundaries.
 
 ## Regulatory Edge
 
