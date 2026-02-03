@@ -126,6 +126,8 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 3. Funds routed per canonical split → startup(s) funded.
 4. On distribution/liquidity events, Organizer coordinates **private shares → USDC**; smart contracts update balances/points.
 
+![Liquidity Flow & Management](../../static/liquidity-flow-management.png)
+
 ### Fees & Liquidity
 
 * **Administrative fee:** Up-front fee can be taken pro-rata from the Fish School; covers Fish Network fee and optional at-cost compensation for Organizer(s).
