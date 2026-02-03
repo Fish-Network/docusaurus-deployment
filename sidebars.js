@@ -32,8 +32,8 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'fish-network/liquidity-optionality-diversification',
-      label: 'Liquidity, Optionality & Diversification',
+      id: ''fish-network/liquidity-optionality'',
+      label: 'Optionality & Diversification',
     },
   ],
 };
