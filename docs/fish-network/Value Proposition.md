@@ -167,6 +167,10 @@ The defining asset class will not be tokens or equities alone, but coordinated i
 
 explain how investors do not have time to do enough good diligence. Diligence costs lots of time, few are qualified to do it, and good DD is hard to come by. Most investors simply rely on the due diligence of other investors. In fish network, investors pool diligence costs by distributing them across the Fish School & Shoal. Investors can contribute to diligence to earn reputation points through the Fish School, or potentially receive cash compensation in exchange, through the Fish Shoal.
 
+"Given enough eyeballs, all bugs are shallow"   This quote is related to software development, but also applies to due diligence. The more qualifed investors perform due diligence on the same company, the more likely it is that an investor finds the "hair" in the deal. i.e. what most investors were missing by doing only surface level DD.
+
+https://en.wikipedia.org/wiki/Linus%27s_law
+
 In practical terms, Due Diligence(DD) is not easy to monetize, which is why it is a ripe target for disruption through a shared, AI-networked, community-driven approach.
 
 
