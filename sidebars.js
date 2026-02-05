@@ -30,11 +30,6 @@ const sidebars = {
       id: 'fish-network/intro-to-fish-network-clubs',
       label: 'Introduction to Investment Clubs',
     },
-    {
-      type: 'doc',
-      id: 'fish-network/liquidity-optionality',
-      label: 'Optionality & Diversification',
-    },
   ],
 };
 export default sidebars;
