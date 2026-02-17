@@ -4,6 +4,8 @@ Over the past decade, we've seen an accelerating trend: billion-dollar companies
 
 AI-driven product teams and crypto protocols are positioned to capitalize on this pattern at scale: small squads, plugged into global capital and infrastructure, achieving valuations once reserved for traditional Fortune-500-scale organizations. With a rapidly evolving market economy, founders and investors are choosing tools that empower teams for this new frontier.
 
+![Image](../../.gitbook/assets/0%20(1).png)
+
 Introducing Fish Network. A platform where you can scale capital pooling entities with near zero operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
 ## **Why Current Infrastructure Falls Short In this Era**
