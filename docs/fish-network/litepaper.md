@@ -6,23 +6,26 @@ slug: /
 
 ## **The Billion Dollar Small Team Era**
 
-Over the past decade, we've seen an accelerating trend: billion-dollar companies being built and scaled by small, hyper-efficient teams. What used to require hundreds of employees, multiple offices, and years of infrastructure can now be accomplished by fewer than a dozen founders and operators.
+Over the past decade, we've seen an accelerating trend: billion-dollar companies being built and scaled by small, globally distributed, hyper-efficient teams. To get started, these small teams simply open up a Neobank account and start building.
 
-AI-driven product teams and crypto protocols are positioned to capitalize on this pattern at scale: small squads, plugged into global capital and infrastructure, achieving valuations once reserved for traditional Fortune-500-scale organizations. With a rapidly evolving market economy, founders and investors are choosing tools that empower teams for this new frontier.
+In 2026 and beyond, the buy-side is poised to experience a similar phenomena that the sell-side created; fast formation, lower fees, digitally native & streamlined customer experience, coupled with regulatory compliant backend processes.
 
-Introducing Fish Network. A platform where you can scale capital pooling entities with near zero operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
+![Image](../../.gitbook/assets/0%20(1).png)
+
+Emerging managers will be able to capitalize on this pattern at scale; solo-GPs will launch neofunds, plugged into global capital and compliant infrastructure, achieving AUM once reserved for institutional asset managers.
+
+Enter Fish Network. Neofund infrastructure where emerging managers can scale funds with almost no operational drag, enabling investors to allocate with confidence. Launch, raise, and scale an investment community instantly, all while cultivating investor trust and reputation through transparent on-chain systems.
 
 ## **Why Current Infrastructure Falls Short In this Era**
 
-Traditional crowdfunding portals are symptomatic of the old model:
+Traditional fund administrators are symptomatic of the old model:
 
-* **High costs**: pay-to-list fees and ongoing compliance overhead.
-* **Poor match quality**: high-quality issuers avoid the portals, leaving retail investors with limited choice.
-* **Investor friction**: decision-making is hampered by lack of transparency and uncertain liquidity.
+**High costs:** Manual accounting and ongoing compliance overhead.
+**Lack of Transparency:** Investors are segregated making collaborative investing impractical.
 
 Crowdfunding portals are founder friendly at the expense of the investor. Investors struggle to make informed decisions, with no control over outcomes, or visibility into real-time progress. Issuers with strong fundamentals avoid portals due to fees (typically 10% of AUM for operating and legal expenses) and ongoing compliance burdens, leaving weaker deals to dominate supply.
 
-This explains why the model hasn't scaled — strong fundamentals avoid it, and investors don't trust it.
+This explains why retail investing in private markets hasn't scaled; strong fundamentals avoid it, and investors don't trust it.
 
 ## **A Flywheel For The New Economy**
 
