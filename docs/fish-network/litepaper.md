@@ -20,8 +20,8 @@ Enter Fish Network. Neofund infrastructure where emerging managers can scale fun
 
 Traditional fund administrators are symptomatic of the old model:
 
-** * High costs:** Manual accounting and ongoing compliance overhead.
-** * Lack of Transparency:** Investors are segregated making collaborative investing impractical.
+- **High costs:** Manual accounting and ongoing compliance overhead.
+- **Lack of transparency:** Investors are segregated, making collaborative investing impractical.
 
 Crowdfunding portals are founder friendly at the expense of the investor. Investors struggle to make informed decisions, with no control over outcomes, or visibility into real-time progress. Issuers with strong fundamentals avoid portals due to fees (typically 10% of AUM for operating and legal expenses) and ongoing compliance burdens, leaving weaker deals to dominate supply.
 
